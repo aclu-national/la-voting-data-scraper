@@ -51,7 +51,7 @@ get_analysis <- function(df){
 # -------------------------- Loading and cleaning data -------------------------
 
 # House Dataframe
-house_df <- read_csv("precinct_data_1.csv") %>%
+house_df <- read_csv("public_records/precinct_data_1.csv") %>%
   clean_names() %>%
   
   # Removing unnecessary data
@@ -97,7 +97,7 @@ house_df <- read_csv("precinct_data_1.csv") %>%
   )
 
 # Senate Dataframe
-senate_df <- read_csv("precinct_data_2.csv") %>%
+senate_df <- read_csv("public_records/precinct_data_2.csv") %>%
   clean_names() %>%
   
   # Removing unnecessary data
