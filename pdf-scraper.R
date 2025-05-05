@@ -3,7 +3,7 @@ library(pdftools)
 library(tidyverse)
 
 # Path to file
-file <- "/Users/eappelson/districts.pdf"
+file <- "public_records/districts.pdf"
 
 # Reading file as pdf
 text <- pdf_text(file)
@@ -36,4 +36,4 @@ df_final <- df %>%
   mutate(Parish = str_to_title(str_sub(Parish,1,-4))) %>%
   clean_names()
 
-write_csv(df_final, "districts.csv")
+write_csv(df_final, "public_records/extracted_data/districts.csv")
