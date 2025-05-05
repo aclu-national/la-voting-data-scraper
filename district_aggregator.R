@@ -1,3 +1,11 @@
+#--------------------------------------------------------------------------
+# Author: Elijah Appelson
+# Last Updated: May 5th, 2025
+# Summary: This script is used to aggregate election data from the March 28th,
+# 2025 election in Louisiana for four constitutional amendments by 
+# Senate and House district. 
+#--------------------------------------------------------------------------
+
 # ------------ Loading libraries, voting data, and defining functions ----------
 # Loading Libraries
 library(tidyverse)
