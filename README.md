@@ -6,4 +6,5 @@ This project was created to download precinct-level voting data from the March 2
 ### voting_data_scraper.R
 This script downloads all voting data by precinct and turns them into cohesive sets of CSV's for each act. 
 
-###
+### district_aggregator.R
+This script uses the precincts within each district to calculate the percentage of no-votes per district.
