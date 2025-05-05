@@ -43,6 +43,7 @@ district_x_voting <- function(base_df, voting_df) {
   return(house_final)
 }
 
+# Defining the "get_analysis" function
 get_analysis <- function(df){
   df %>%
     mutate(n = yes+no) %>%
@@ -53,6 +54,22 @@ get_analysis <- function(df){
       n_sum = sum(n),
       pct_yes = round(100*n_yes/n_sum,2),
       pct_no = round(100*n_no/n_sum,2)
+    )
+}
+
+# Defining the "get_rough_analysis" function
+get_rough_analysis <- function(df){
+  df %>%
+    mutate(n = yes+no) %>%
+    group_by(district) %>%
+    summarize(
+      n_yes = sum(yes, na.rm = TRUE),
+      n_no = sum(no, na.rm = TRUE),
+      n_sum = sum(n, na.rm = TRUE),
+      pct_yes = round(100*n_yes/n_sum,2),
+      pct_no = round(100*n_no/n_sum,2),
+      n_na = sum(is.na(yes)),
+      pct_not_na = round(100*(n() - n_na)/n(),2)
     )
 }
 
@@ -205,6 +222,16 @@ senate_act_3_analysis <- senate_act_3 %>%
 senate_act_4_analysis <- senate_act_4 %>%
   get_analysis()
 
+# Senate rough analysis
+senate_act_1_rough_analysis <- senate_act_1 %>%
+  get_rough_analysis()
+senate_act_2_rough_analysis <- senate_act_2 %>%
+  get_rough_analysis()
+senate_act_3_rough_analysis <- senate_act_3 %>%
+  get_rough_analysis()
+senate_act_4_rough_analysis <- senate_act_4 %>%
+  get_rough_analysis()
+
 # Creating a "analyzed_voting_data" directory 
 dir.create("analyzed_voting_data")
 
@@ -218,3 +245,9 @@ write_csv(senate_act_1_analysis, "analyzed_voting_data/senate_act_1_analysis.csv
 write_csv(senate_act_2_analysis, "analyzed_voting_data/senate_act_2_analysis.csv")
 write_csv(senate_act_3_analysis, "analyzed_voting_data/senate_act_3_analysis.csv")
 write_csv(senate_act_4_analysis, "analyzed_voting_data/senate_act_4_analysis.csv")
+
+write_csv(senate_act_1_rough_analysis, "analyzed_voting_data/senate_act_1_rough_analysis.csv")
+write_csv(senate_act_2_rough_analysis, "analyzed_voting_data/senate_act_2_rough_analysis.csv")
+write_csv(senate_act_3_rough_analysis, "analyzed_voting_data/senate_act_3_rough_analysis.csv")
+write_csv(senate_act_4_rough_analysis, "analyzed_voting_data/senate_act_4_rough_analysis.csv")
+
