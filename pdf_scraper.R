@@ -1,3 +1,10 @@
+#--------------------------------------------------------------------------
+# Author: Elijah Appelson
+# Last Updated: May 5th, 2025
+# Summary: This script is used to convert the "districts.pdf" file into a
+# CSV with the necessary variables.
+#--------------------------------------------------------------------------
+
 # Loading Libraries
 library(pdftools)
 library(tidyverse)
