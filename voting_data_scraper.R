@@ -1,7 +1,9 @@
 #--------------------------------------------------------------------------
-# This script is used to download election data from the March 28th, 2025
-# election in Louisiana for four constitutional amendments at a precinct
-# level. We use this information to determine voting at district levels.
+# Author: Elijah Appelson
+# Last Updated: May 5th, 2025
+# Summary: This script is used to download election data from the March 28th,
+# 2025 election in Louisiana for four constitutional amendments at a precinct
+# level.
 #--------------------------------------------------------------------------
 
 # ---------------------- Loading Libraries + Data -------------------------
