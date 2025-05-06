@@ -1,0 +1,3216 @@
+precinct,district,parish
+00/01-01,1,Caddo
+00/01-02,1,Caddo
+00/01-03,1,Caddo
+00/01-04,1,Caddo
+00/01-05,1,Caddo
+00/01-06,1,Caddo
+00/01-07,1,Caddo
+00/01-08,1,Caddo
+00/01-09,1,Caddo
+00/01-10,1,Caddo
+00/01-11,1,Caddo
+00/01-12,1,Caddo
+00/01-13,1,Caddo
+00/01-14,1,Caddo
+00/02-01,1,Caddo
+00/02-02,1,Caddo
+00/02-04,1,Caddo
+00/03-01,1,Caddo
+00/06-10,1,Caddo
+00/11-01,1,Caddo
+00/11-02,1,Caddo
+00/11-06,1,Caddo
+00/11-09,1,Caddo
+00/11-10,1,Caddo
+00/12-01,1,Caddo
+00/12-03,1,Caddo
+00/12-07,1,Caddo
+00/12-08,1,Caddo
+00/12-09,1,Caddo
+02/05A,2,Bossier
+02/06,2,Bossier
+02/08,2,Bossier
+02/12A,2,Bossier
+02/12B,2,Bossier
+02/13,2,Bossier
+02/23,2,Bossier
+04/08D,2,Bossier
+00/02-10,2,Caddo
+00/02-11,2,Caddo
+00/02-12,2,Caddo
+00/03-02,2,Caddo
+00/03-04,2,Caddo
+00/03-05,2,Caddo
+00/03-06,2,Caddo
+00/03-07,2,Caddo
+00/03-08,2,Caddo
+00/03-09,2,Caddo
+00/04-01,2,Caddo
+00/04-02,2,Caddo
+00/05-01,2,Caddo
+00/05-02,2,Caddo
+00/05-03,2,Caddo
+00/05-04,2,Caddo
+00/05-05,2,Caddo
+00/05-06,2,Caddo
+00/05-07,2,Caddo
+00/05-08,3,Caddo
+00/05-09,3,Caddo
+00/05-11,3,Caddo
+00/06-02,3,Caddo
+00/06-03,3,Caddo
+00/06-04,3,Caddo
+00/06-05,3,Caddo
+00/06-07,3,Caddo
+00/07-05,3,Caddo
+00/07-06,3,Caddo
+00/07-08,3,Caddo
+00/07-09,3,Caddo
+00/10-01,3,Caddo
+00/10-03,3,Caddo
+00/10-04,3,Caddo
+00/10-05,3,Caddo
+00/10-06,3,Caddo
+00/10-07,3,Caddo
+00/10-08,3,Caddo
+00/10-09,3,Caddo
+00/11-04,3,Caddo
+00/11-05,3,Caddo
+00/02-03,4,Caddo
+00/02-05,4,Caddo
+00/02-06,4,Caddo
+00/02-07,4,Caddo
+00/02-08,4,Caddo
+00/02-09,4,Caddo
+00/03-03,4,Caddo
+00/06-06,4,Caddo
+00/06-08,4,Caddo
+00/06-09,4,Caddo
+00/07-01,4,Caddo
+00/07-02,4,Caddo
+00/07-03,4,Caddo
+00/07-04,4,Caddo
+00/07-07,4,Caddo
+00/07-10,4,Caddo
+00/12-02,4,Caddo
+00/12-04,4,Caddo
+00/12-05,4,Caddo
+00/12-06,4,Caddo
+00/12-10,4,Caddo
+00/12-11,4,Caddo
+01/01,5,Bossier
+01/02,5,Bossier
+01/03,5,Bossier
+01/03A,5,Bossier
+01/03B,5,Bossier
+01/05,5,Bossier
+04/07A,5,Bossier
+04/07B,5,Bossier
+04/08B -1,5,Bossier
+04/08B -2,5,Bossier
+04/08C,5,Bossier
+04/08E,5,Bossier
+04/08G,5,Bossier
+04/09,5,Bossier
+04/10 -1,5,Bossier
+04/10 -2,5,Bossier
+00/09-01,5,Caddo
+00/09-04,5,Caddo
+00/09-05,5,Caddo
+00/09-06,5,Caddo
+00/09-07,5,Caddo
+00/09-09,5,Caddo
+00/09-10,5,Caddo
+00/09-11,5,Caddo
+00/09-12,5,Caddo
+00/09-13,5,Caddo
+*ALL/*ALL,5,Red River
+00/04-03,6,Caddo
+00/04-04,6,Caddo
+00/04-05,6,Caddo
+00/04-06,6,Caddo
+00/04-07,6,Caddo
+00/04-08,6,Caddo
+00/04-09,6,Caddo
+00/04-10,6,Caddo
+00/05-10,6,Caddo
+00/06-01,6,Caddo
+00/08-01,6,Caddo
+00/08-02,6,Caddo
+00/08-03,6,Caddo
+00/08-04,6,Caddo
+00/08-05,6,Caddo
+00/08-06,6,Caddo
+00/08-07,6,Caddo
+00/08-08,6,Caddo
+00/08-09,6,Caddo
+00/09-02,6,Caddo
+00/09-03,6,Caddo
+00/09-08,6,Caddo
+00/10-02,6,Caddo
+00/11-03,7,Caddo
+00/11-07,7,Caddo
+00/11-08,7,Caddo
+*ALL/*ALL,7,De Soto
+00/3-5,7,Sabine
+00/6-2,7,Sabine
+00/6-3,7,Sabine
+00/7-1,7,Sabine
+00/7-2,7,Sabine
+00/7-3,7,Sabine
+00/7-4,7,Sabine
+00/7-5,7,Sabine
+00/8-1,7,Sabine
+00/8-2,7,Sabine
+00/8-3,7,Sabine
+00/9-1,7,Sabine
+00/9-2,7,Sabine
+00/9-3,7,Sabine
+00/9-4,7,Sabine
+00/9-5,7,Sabine
+02/01,8,Bossier
+02/01A,8,Bossier
+02/02,8,Bossier
+02/04 -1,8,Bossier
+02/04 -2,8,Bossier
+02/07,8,Bossier
+02/09,8,Bossier
+02/10,8,Bossier
+02/11,8,Bossier
+02/17A,8,Bossier
+02/18B,8,Bossier
+02/18C -1,8,Bossier
+02/18C -2,8,Bossier
+02/18F,8,Bossier
+02/18G,8,Bossier
+02/18H,8,Bossier
+02/18I,8,Bossier
+02/19,8,Bossier
+02/21A,8,Bossier
+02/21B,8,Bossier
+02/21C -1,8,Bossier
+02/21C -2,8,Bossier
+02/21D -1,8,Bossier
+02/21D -2,8,Bossier
+02/21E,8,Bossier
+02/22A -1,8,Bossier
+02/22A -2,8,Bossier
+02/22B,8,Bossier
+02/22C,8,Bossier
+01/04,9,Bossier
+02/03,9,Bossier
+02/03A,9,Bossier
+02/14,9,Bossier
+02/15,9,Bossier
+02/16,9,Bossier
+02/17B,9,Bossier
+02/20,9,Bossier
+04/02,9,Bossier
+04/02A,9,Bossier
+04/03A,9,Bossier
+04/03B,9,Bossier
+04/03D,9,Bossier
+04/04A -1,9,Bossier
+04/04A -2,9,Bossier
+04/04B -1,9,Bossier
+04/04B -2,9,Bossier
+04/05A,9,Bossier
+04/06A -1,9,Bossier
+04/06A -2,9,Bossier
+04/06B,9,Bossier
+04/08A,9,Bossier
+04/11A,9,Bossier
+04/11B -1,9,Bossier
+04/11B -2,9,Bossier
+04/11C,9,Bossier
+02/18D,10,Bossier
+03/01,10,Bossier
+03/02,10,Bossier
+03/03,10,Bossier
+03/04,10,Bossier
+04/01A,10,Bossier
+*ALL/*ALL,10,Webster
+01/01,11,Bienville
+01/02,11,Bienville
+01/07,11,Bienville
+02/01,11,Bienville
+02/02,11,Bienville
+02/03,11,Bienville
+03/01,11,Bienville
+03/02,11,Bienville
+03/03,11,Bienville
+03/06,11,Bienville
+03/07,11,Bienville
+*ALL/*ALL,11,Claiborne
+01/01,11,Lincoln
+01/02,11,Lincoln
+01/03,11,Lincoln
+02/01,11,Lincoln
+03/01,11,Lincoln
+03/03,11,Lincoln
+09/01,11,Lincoln
+09/02,11,Lincoln
+09/03,11,Lincoln
+10/01,11,Lincoln
+10/02,11,Lincoln
+10/04,11,Lincoln
+10/05,11,Lincoln
+10/06,11,Lincoln
+11/01,11,Lincoln
+11/03,11,Lincoln
+11/04,11,Lincoln
+11/05,11,Lincoln
+12/01,11,Lincoln
+12/02,11,Lincoln
+12/03,11,Lincoln
+12/04,11,Lincoln
+12/06,11,Lincoln
+03/02,12,Lincoln
+03/04,12,Lincoln
+03/05,12,Lincoln
+03/06,12,Lincoln
+04/01,12,Lincoln
+04/02,12,Lincoln
+04/03,12,Lincoln
+04/04,12,Lincoln
+04/05,12,Lincoln
+04/06,12,Lincoln
+05/01,12,Lincoln
+05/02,12,Lincoln
+05/03,12,Lincoln
+05/04,12,Lincoln
+06/01,12,Lincoln
+06/02,12,Lincoln
+06/03,12,Lincoln
+06/04,12,Lincoln
+06/05,12,Lincoln
+06/06,12,Lincoln
+07/01,12,Lincoln
+07/02,12,Lincoln
+08/01,12,Lincoln
+08/02,12,Lincoln
+08/03,12,Lincoln
+09/04,12,Lincoln
+10/03,12,Lincoln
+*ALL/*ALL,12,Union
+01/03,13,Bienville
+01/04,13,Bienville
+01/05,13,Bienville
+01/06,13,Bienville
+03/04,13,Bienville
+03/05,13,Bienville
+04/01,13,Bienville
+04/02,13,Bienville
+04/03,13,Bienville
+05/01,13,Bienville
+05/02,13,Bienville
+05/03,13,Bienville
+05/04,13,Bienville
+06/01,13,Bienville
+06/02,13,Bienville
+06/03,13,Bienville
+06/04,13,Bienville
+06/05,13,Bienville
+07/01,13,Bienville
+07/02,13,Bienville
+07/03,13,Bienville
+07/04,13,Bienville
+*ALL/*ALL,13,Jackson
+01/02,13,Natchitoches
+02/01,13,Natchitoches
+02/02,13,Natchitoches
+02/03,13,Natchitoches
+02/04,13,Natchitoches
+02/05,13,Natchitoches
+02/06,13,Natchitoches
+02/07,13,Natchitoches
+02/07A,13,Natchitoches
+02/08,13,Natchitoches
+02/09,13,Natchitoches
+*ALL/*ALL,13,Winn
+00/01,14,Ouachita
+00/01A,14,Ouachita
+00/02,14,Ouachita
+00/04,14,Ouachita
+00/05,14,Ouachita
+00/06,14,Ouachita
+00/07,14,Ouachita
+00/36,14,Ouachita
+00/42,14,Ouachita
+00/43,14,Ouachita
+00/50,14,Ouachita
+00/59,14,Ouachita
+00/60,14,Ouachita
+00/61,14,Ouachita
+00/62,14,Ouachita
+00/63,14,Ouachita
+00/64,14,Ouachita
+00/71,14,Ouachita
+00/75,14,Ouachita
+00/76,14,Ouachita
+00/77,14,Ouachita
+00/78,14,Ouachita
+00/32,15,Ouachita
+00/33,15,Ouachita
+00/38,15,Ouachita
+00/39,15,Ouachita
+00/40,15,Ouachita
+00/41,15,Ouachita
+00/44,15,Ouachita
+00/44A,15,Ouachita
+00/45,15,Ouachita
+00/49,15,Ouachita
+00/51,15,Ouachita
+00/51A,15,Ouachita
+00/52,15,Ouachita
+00/52A,15,Ouachita
+00/53,15,Ouachita
+00/54,15,Ouachita
+00/55,15,Ouachita
+00/56,15,Ouachita
+00/56A,15,Ouachita
+00/57,15,Ouachita
+00/01,16,Morehouse
+00/01-1,16,Morehouse
+00/03-1,16,Morehouse
+00/03-2,16,Morehouse
+00/06,16,Morehouse
+00/07,16,Morehouse
+00/07-1,16,Morehouse
+00/08,16,Morehouse
+00/12,16,Morehouse
+00/13,16,Morehouse
+00/13-1,16,Morehouse
+00/14,16,Morehouse
+00/16,16,Morehouse
+00/16-1,16,Morehouse
+00/20,16,Morehouse
+00/21,16,Morehouse
+00/21-1,16,Morehouse
+00/31,16,Morehouse
+00/31-1,16,Morehouse
+00/32,16,Morehouse
+00/35,16,Morehouse
+00/37,16,Morehouse
+00/39-1,16,Morehouse
+00/39-2,16,Morehouse
+00/03,16,Ouachita
+00/08,16,Ouachita
+00/09,16,Ouachita
+00/09A,16,Ouachita
+00/65,16,Ouachita
+00/65A,16,Ouachita
+00/66,16,Ouachita
+00/67,16,Ouachita
+00/68,16,Ouachita
+00/69,16,Ouachita
+00/70,16,Ouachita
+00/72,16,Ouachita
+00/73,16,Ouachita
+00/74,16,Ouachita
+00/79,16,Ouachita
+00/10,17,Ouachita
+00/11,17,Ouachita
+00/12,17,Ouachita
+00/13,17,Ouachita
+00/14,17,Ouachita
+00/15,17,Ouachita
+00/16,17,Ouachita
+00/17,17,Ouachita
+00/18,17,Ouachita
+00/19,17,Ouachita
+00/20,17,Ouachita
+00/21,17,Ouachita
+00/22,17,Ouachita
+00/23,17,Ouachita
+00/24,17,Ouachita
+00/27,17,Ouachita
+00/28,17,Ouachita
+00/30,17,Ouachita
+00/31,17,Ouachita
+00/34,17,Ouachita
+00/35,17,Ouachita
+00/37,17,Ouachita
+00/46,17,Ouachita
+00/47,17,Ouachita
+00/48,17,Ouachita
+00/31,18,Iberville
+00/32,18,Iberville
+*ALL/*ALL,18,Pointe Coupee
+00/01A,18,West Baton Rouge
+00/04A,18,West Baton Rouge
+00/18,18,West Baton Rouge
+00/19,18,West Baton Rouge
+00/20,18,West Baton Rouge
+00/21,18,West Baton Rouge
+00/22,18,West Baton Rouge
+*ALL/*ALL,18,West Feliciana
+00/04,19,East Carroll
+00/15,19,East Carroll
+00/17,19,East Carroll
+00/18,19,East Carroll
+00/01,19,Madison
+00/02,19,Madison
+00/03,19,Madison
+00/04,19,Madison
+00/05,19,Madison
+00/06,19,Madison
+00/07,19,Madison
+00/08,19,Madison
+00/09,19,Madison
+00/10,19,Madison
+00/14,19,Madison
+00/23,19,Morehouse
+00/24,19,Morehouse
+00/26-1,19,Morehouse
+00/27,19,Morehouse
+00/27-1,19,Morehouse
+00/29,19,Morehouse
+00/40,19,Morehouse
+00/42,19,Morehouse
+00/45,19,Morehouse
+00/47,19,Morehouse
+00/48,19,Morehouse
+00/50,19,Morehouse
+00/51,19,Morehouse
+00/53,19,Morehouse
+00/53-1,19,Morehouse
+00/54,19,Morehouse
+*ALL/*ALL,19,Richland
+*ALL/*ALL,19,West Carroll
+*ALL/*ALL,20,Caldwell
+01/2,20,Catahoula
+01/3,20,Catahoula
+01/4,20,Catahoula
+02/2,20,Catahoula
+03/1,20,Catahoula
+03/2,20,Catahoula
+04/1,20,Catahoula
+04/2,20,Catahoula
+05/1,20,Catahoula
+06/1,20,Catahoula
+06/2,20,Catahoula
+06/3,20,Catahoula
+06/3A,20,Catahoula
+09/1,20,Catahoula
+09/2,20,Catahoula
+09/3,20,Catahoula
+09/4,20,Catahoula
+00/01,20,Franklin
+00/02,20,Franklin
+00/03,20,Franklin
+00/04,20,Franklin
+00/04A,20,Franklin
+00/04B,20,Franklin
+00/06,20,Franklin
+00/12,20,Franklin
+00/13,20,Franklin
+00/13A,20,Franklin
+00/14,20,Franklin
+00/21,20,Franklin
+00/22,20,Franklin
+00/26,20,Franklin
+00/27,20,Franklin
+00/27A,20,Franklin
+00/30,20,Franklin
+00/31,20,Franklin
+00/32,20,Franklin
+00/33,20,Franklin
+01/01,20,Lasalle
+01/02,20,Lasalle
+01/03,20,Lasalle
+04/02,20,Lasalle
+05/01,20,Lasalle
+06/02,20,Lasalle
+07/01,20,Lasalle
+09/01,20,Lasalle
+09/02,20,Lasalle
+09/03,20,Lasalle
+10/01,20,Lasalle
+00/25,20,Ouachita
+00/26,20,Ouachita
+00/58,20,Ouachita
+01/1,21,Catahoula
+01/1A,21,Catahoula
+02/1,21,Catahoula
+02/1A,21,Catahoula
+06/5,21,Catahoula
+06/5A,21,Catahoula
+07/1,21,Catahoula
+07/1A,21,Catahoula
+07/3,21,Catahoula
+07/5,21,Catahoula
+08/1,21,Catahoula
+*ALL/*ALL,21,Concordia
+00/01,21,East Carroll
+00/03,21,East Carroll
+00/05,21,East Carroll
+00/05A,21,East Carroll
+00/05B,21,East Carroll
+00/06,21,East Carroll
+00/07,21,East Carroll
+00/09,21,East Carroll
+00/10,21,East Carroll
+00/13,21,East Carroll
+00/14,21,East Carroll
+00/16,21,East Carroll
+00/19,21,East Carroll
+00/16,21,Franklin
+00/18,21,Franklin
+00/19,21,Franklin
+00/20,21,Franklin
+00/24,21,Franklin
+00/11,21,Madison
+00/12,21,Madison
+00/13,21,Madison
+00/15,21,Madison
+00/17,21,Madison
+00/17A,21,Madison
+00/18,21,Madison
+00/19,21,Madison
+00/20,21,Madison
+00/21,21,Madison
+00/22,21,Madison
+00/23,21,Madison
+00/24,21,Madison
+00/25,21,Madison
+00/26,21,Madison
+*ALL/*ALL,21,Tensas
+*ALL/*ALL,22,Grant
+02/01,22,Lasalle
+03/01,22,Lasalle
+03/02,22,Lasalle
+04/03,22,Lasalle
+07/02,22,Lasalle
+08/02,22,Lasalle
+08/03,22,Lasalle
+08/05,22,Lasalle
+08/07,22,Lasalle
+09/05,22,Lasalle
+01/03,22,Natchitoches
+01/03A,22,Natchitoches
+01/04,22,Natchitoches
+01/04A,22,Natchitoches
+01/06,22,Natchitoches
+01/07,22,Natchitoches
+01/11,22,Natchitoches
+01/12,22,Natchitoches
+01/13,22,Natchitoches
+04/09,22,Natchitoches
+02/07,23,Orleans
+03/08,23,Orleans
+03/09,23,Orleans
+03/12,23,Orleans
+03/14,23,Orleans
+03/15,23,Orleans
+03/18,23,Orleans
+03/19,23,Orleans
+03/20,23,Orleans
+04/03,23,Orleans
+04/06,23,Orleans
+04/07,23,Orleans
+04/08,23,Orleans
+05/08,23,Orleans
+05/09,23,Orleans
+05/10,23,Orleans
+05/11,23,Orleans
+05/12,23,Orleans
+05/13,23,Orleans
+05/15,23,Orleans
+06/07,23,Orleans
+06/08,23,Orleans
+06/09,23,Orleans
+07/12,23,Orleans
+07/15,23,Orleans
+07/16,23,Orleans
+07/21,23,Orleans
+07/27B,23,Orleans
+16/08,23,Orleans
+16/09,23,Orleans
+17/08,23,Orleans
+17/09,23,Orleans
+17/10,23,Orleans
+17/11,23,Orleans
+17/12,23,Orleans
+17/13,23,Orleans
+17/13A,23,Orleans
+17/14,23,Orleans
+17/15,23,Orleans
+17/16,23,Orleans
+00/01,24,Beauregard
+00/01A,24,Beauregard
+00/02,24,Beauregard
+00/03,24,Beauregard
+00/04,24,Beauregard
+00/05,24,Beauregard
+00/06,24,Beauregard
+00/17A,24,Beauregard
+00/19,24,Beauregard
+00/20,24,Beauregard
+00/21,24,Beauregard
+00/1-1,24,Sabine
+00/1-2,24,Sabine
+00/1-3,24,Sabine
+00/1-4,24,Sabine
+00/1-5,24,Sabine
+00/2-1,24,Sabine
+00/2-2,24,Sabine
+00/2-6,24,Sabine
+00/3-2,24,Sabine
+00/3-6,24,Sabine
+00/4-1,24,Sabine
+00/5-1,24,Sabine
+00/5-2,24,Sabine
+00/5-3,24,Sabine
+00/5-4,24,Sabine
+00/5-8,24,Sabine
+01/07,24,Vernon
+01/09,24,Vernon
+02/01,24,Vernon
+02/01A,24,Vernon
+02/02,24,Vernon
+02/02A,24,Vernon
+02/03,24,Vernon
+02/04,24,Vernon
+03/01,24,Vernon
+03/02,24,Vernon
+03/03,24,Vernon
+03/04,24,Vernon
+03/05,24,Vernon
+04/03,24,Vernon
+04/03B,24,Vernon
+04/03L,24,Vernon
+04/03N,24,Vernon
+05/01,24,Vernon
+05/02,24,Vernon
+05/02A,24,Vernon
+06/01,24,Vernon
+06/02,24,Vernon
+06/03,24,Vernon
+06/04,24,Vernon
+07/03,24,Vernon
+07/04A,24,Vernon
+08/01,24,Vernon
+08/02,24,Vernon
+08/03,24,Vernon
+01/01,25,Natchitoches
+01/01A,25,Natchitoches
+01/05,25,Natchitoches
+01/05A,25,Natchitoches
+01/08,25,Natchitoches
+01/09,25,Natchitoches
+01/09A,25,Natchitoches
+01/10,25,Natchitoches
+01/10A,25,Natchitoches
+01/10B,25,Natchitoches
+01/14,25,Natchitoches
+03/01,25,Natchitoches
+03/02,25,Natchitoches
+03/03,25,Natchitoches
+03/04,25,Natchitoches
+03/05,25,Natchitoches
+03/06,25,Natchitoches
+03/07,25,Natchitoches
+03/08,25,Natchitoches
+03/09,25,Natchitoches
+03/10,25,Natchitoches
+04/01,25,Natchitoches
+04/02,25,Natchitoches
+04/03,25,Natchitoches
+04/04,25,Natchitoches
+04/05,25,Natchitoches
+04/06,25,Natchitoches
+04/07,25,Natchitoches
+04/08,25,Natchitoches
+00/C22,25,Rapides
+00/C23,25,Rapides
+00/C30,25,Rapides
+00/C31,25,Rapides
+00/C33,25,Rapides
+00/C34,25,Rapides
+00/C35,25,Rapides
+00/C36 AK,25,Rapides
+00/C36 LZ,25,Rapides
+00/C37A,25,Rapides
+00/C37B,25,Rapides
+00/C41,25,Rapides
+00/C42,25,Rapides
+00/S01,25,Rapides
+00/S02,25,Rapides
+00/S04,25,Rapides
+00/S05,25,Rapides
+00/S06A,25,Rapides
+00/S06B,25,Rapides
+00/S08,25,Rapides
+00/S09,25,Rapides
+00/S11,25,Rapides
+00/S13,25,Rapides
+00/S14,25,Rapides
+00/S15,25,Rapides
+00/C01,26,Rapides
+00/C02,26,Rapides
+00/C03,26,Rapides
+00/C04 AK,26,Rapides
+00/C04 LZ,26,Rapides
+00/C05,26,Rapides
+00/C06,26,Rapides
+00/C07,26,Rapides
+00/C08,26,Rapides
+00/C09,26,Rapides
+00/C10,26,Rapides
+00/C11A,26,Rapides
+00/C11B,26,Rapides
+00/C13 AK,26,Rapides
+00/C13 LZ,26,Rapides
+00/C14,26,Rapides
+00/C15,26,Rapides
+00/C17,26,Rapides
+00/C18,26,Rapides
+00/C19,26,Rapides
+00/C20,26,Rapides
+00/C21 AK,26,Rapides
+00/C21 LZ,26,Rapides
+00/C24,26,Rapides
+00/C25,26,Rapides
+00/C26,26,Rapides
+00/C27,26,Rapides
+00/C28,26,Rapides
+00/C32,26,Rapides
+00/C38A,26,Rapides
+00/C38B,26,Rapides
+00/C39,26,Rapides
+00/C40,26,Rapides
+00/N01,26,Rapides
+00/N02,26,Rapides
+00/N03,26,Rapides
+00/N04,26,Rapides
+00/N05,26,Rapides
+00/N06,27,Rapides
+00/N07,27,Rapides
+00/N08 AK,27,Rapides
+00/N08 LZ,27,Rapides
+00/N09,27,Rapides
+00/N10 AK,27,Rapides
+00/N10 LZ,27,Rapides
+00/N11,27,Rapides
+00/N12,27,Rapides
+00/N13A,27,Rapides
+00/N13B,27,Rapides
+00/N14A,27,Rapides
+00/N14B,27,Rapides
+00/N15,27,Rapides
+00/N16,27,Rapides
+00/N17,27,Rapides
+00/N18A,27,Rapides
+00/N18B,27,Rapides
+00/N19 AK,27,Rapides
+00/N19 LZ,27,Rapides
+00/N20 AK,27,Rapides
+00/N20 LZ,27,Rapides
+00/N21,27,Rapides
+00/N22,27,Rapides
+00/N23,27,Rapides
+00/N24 AK,27,Rapides
+00/N24 LZ,27,Rapides
+00/N25,27,Rapides
+00/N26 AK,27,Rapides
+00/N26 LZ,27,Rapides
+00/N27,27,Rapides
+00/N28,27,Rapides
+00/N29,27,Rapides
+00/S16,27,Rapides
+*ALL/*ALL,28,Avoyelles
+00/01,28,St. Landry
+00/01A,28,St. Landry
+00/01B,28,St. Landry
+00/01C,28,St. Landry
+00/01D,28,St. Landry
+00/04,28,St. Landry
+00/04A,28,St. Landry
+00/04B,28,St. Landry
+01/017,29,East Baton Rouge
+01/018,29,East Baton Rouge
+01/019,29,East Baton Rouge
+01/021,29,East Baton Rouge
+01/022,29,East Baton Rouge
+01/023,29,East Baton Rouge
+01/024,29,East Baton Rouge
+01/025,29,East Baton Rouge
+01/026,29,East Baton Rouge
+01/058 A,29,East Baton Rouge
+01/058 B,29,East Baton Rouge
+01/077 A,29,East Baton Rouge
+01/077 B,29,East Baton Rouge
+01/085 A,29,East Baton Rouge
+01/085 B,29,East Baton Rouge
+02/016 A,29,East Baton Rouge
+02/016 B,29,East Baton Rouge
+02/023 A,29,East Baton Rouge
+02/023 B,29,East Baton Rouge
+02/027 A,29,East Baton Rouge
+02/027 B,29,East Baton Rouge
+02/030 A,29,East Baton Rouge
+02/030 B,29,East Baton Rouge
+00/01B,29,West Baton Rouge
+00/01C,29,West Baton Rouge
+00/01D,29,West Baton Rouge
+00/01E,29,West Baton Rouge
+00/02A,29,West Baton Rouge
+00/02B,29,West Baton Rouge
+00/03,29,West Baton Rouge
+00/04B,29,West Baton Rouge
+00/05,29,West Baton Rouge
+00/06,29,West Baton Rouge
+00/07A,29,West Baton Rouge
+00/07B,29,West Baton Rouge
+00/08,29,West Baton Rouge
+00/09,29,West Baton Rouge
+00/10,29,West Baton Rouge
+00/11,29,West Baton Rouge
+00/13A,29,West Baton Rouge
+00/13B,29,West Baton Rouge
+00/14A,29,West Baton Rouge
+00/14B,29,West Baton Rouge
+00/15,29,West Baton Rouge
+00/16,29,West Baton Rouge
+00/17,29,West Baton Rouge
+00/07,30,Beauregard
+00/15,30,Beauregard
+00/16,30,Beauregard
+00/16A,30,Beauregard
+00/17,30,Beauregard
+00/18,30,Beauregard
+00/18A,30,Beauregard
+00/25,30,Beauregard
+00/25B,30,Beauregard
+00/26,30,Beauregard
+00/27,30,Beauregard
+00/27A,30,Beauregard
+00/27B,30,Beauregard
+00/28,30,Beauregard
+00/28A,30,Beauregard
+00/30,30,Beauregard
+01/01,30,Vernon
+01/01A,30,Vernon
+01/01B,30,Vernon
+01/02,30,Vernon
+01/03,30,Vernon
+01/03C,30,Vernon
+01/04,30,Vernon
+01/04B,30,Vernon
+01/04C,30,Vernon
+01/05,30,Vernon
+01/05A,30,Vernon
+01/06,30,Vernon
+01/06A,30,Vernon
+01/06B,30,Vernon
+01/07B,30,Vernon
+01/08,30,Vernon
+01/08A,30,Vernon
+04/01,30,Vernon
+04/02,30,Vernon
+04/03A,30,Vernon
+04/03C,30,Vernon
+04/03G,30,Vernon
+04/03K,30,Vernon
+07/01,30,Vernon
+07/02,30,Vernon
+07/02A,30,Vernon
+07/02B,30,Vernon
+07/04,30,Vernon
+07/05,30,Vernon
+07/05A,30,Vernon
+07/05D,30,Vernon
+00/034,31,Lafayette
+00/035,31,Lafayette
+00/036,31,Lafayette
+00/067,31,Lafayette
+00/085,31,Lafayette
+00/086,31,Lafayette
+00/105,31,Lafayette
+00/106,31,Lafayette
+00/109,31,Lafayette
+00/117,31,Lafayette
+00/125,31,Lafayette
+00/133,31,Lafayette
+00/22,31,Vermilion
+00/24,31,Vermilion
+00/25,31,Vermilion
+00/26,31,Vermilion
+00/26A,31,Vermilion
+00/26B,31,Vermilion
+00/32,31,Vermilion
+00/34,31,Vermilion
+00/34A,31,Vermilion
+00/35,31,Vermilion
+00/36A,31,Vermilion
+00/37,31,Vermilion
+00/39,31,Vermilion
+00/46,31,Vermilion
+00/46C,31,Vermilion
+00/46D,31,Vermilion
+00/46E,31,Vermilion
+*ALL/*ALL,32,Allen
+00/09,32,Beauregard
+00/10,32,Beauregard
+00/11,32,Beauregard
+00/11B,32,Beauregard
+00/14,32,Beauregard
+00/14A,32,Beauregard
+00/22,32,Beauregard
+00/560,32,Calcasieu
+00/561,32,Calcasieu
+00/562,32,Calcasieu
+00/600,32,Calcasieu
+00/601,32,Calcasieu
+00/602,32,Calcasieu
+00/603,32,Calcasieu
+00/660,32,Calcasieu
+00/661,32,Calcasieu
+00/662,32,Calcasieu
+00/663,32,Calcasieu
+00/664,32,Calcasieu
+00/760,32,Calcasieu
+00/17,32,Jefferson Davis
+00/400,33,Calcasieu
+00/401,33,Calcasieu
+00/402,33,Calcasieu
+00/403,33,Calcasieu
+00/404,33,Calcasieu
+00/405,33,Calcasieu
+00/406,33,Calcasieu
+00/407,33,Calcasieu
+00/408,33,Calcasieu
+00/460E,33,Calcasieu
+00/460W,33,Calcasieu
+00/461,33,Calcasieu
+00/465,33,Calcasieu
+00/466E,33,Calcasieu
+00/466W,33,Calcasieu
+00/467,33,Calcasieu
+00/468,33,Calcasieu
+00/469,33,Calcasieu
+00/700,33,Calcasieu
+00/701,33,Calcasieu
+00/702,33,Calcasieu
+00/703,33,Calcasieu
+00/761,33,Calcasieu
+00/762,33,Calcasieu
+00/300,34,Calcasieu
+00/301,34,Calcasieu
+00/303,34,Calcasieu
+00/304,34,Calcasieu
+00/305,34,Calcasieu
+00/307,34,Calcasieu
+00/308,34,Calcasieu
+00/309E,34,Calcasieu
+00/309W,34,Calcasieu
+00/310,34,Calcasieu
+00/311,34,Calcasieu
+00/312,34,Calcasieu
+00/313E,34,Calcasieu
+00/313W,34,Calcasieu
+00/315E,34,Calcasieu
+00/315W,34,Calcasieu
+00/318,34,Calcasieu
+00/319N,34,Calcasieu
+00/319S,34,Calcasieu
+00/320E,34,Calcasieu
+00/320W,34,Calcasieu
+00/321,34,Calcasieu
+00/322,34,Calcasieu
+00/323,34,Calcasieu
+00/324,34,Calcasieu
+00/328,34,Calcasieu
+00/329,34,Calcasieu
+00/330,34,Calcasieu
+00/361,34,Calcasieu
+00/364,34,Calcasieu
+00/12,35,Beauregard
+00/12A,35,Beauregard
+00/13,35,Beauregard
+00/160E,35,Calcasieu
+00/160W,35,Calcasieu
+00/161,35,Calcasieu
+00/162E,35,Calcasieu
+00/162W,35,Calcasieu
+00/163,35,Calcasieu
+00/164,35,Calcasieu
+00/165,35,Calcasieu
+00/166E,35,Calcasieu
+00/166W,35,Calcasieu
+00/167,35,Calcasieu
+00/302,35,Calcasieu
+00/306,35,Calcasieu
+00/314,35,Calcasieu
+00/316E,35,Calcasieu
+00/317,35,Calcasieu
+00/440,35,Calcasieu
+00/441,35,Calcasieu
+00/463,35,Calcasieu
+00/464,35,Calcasieu
+00/316W,36,Calcasieu
+00/325,36,Calcasieu
+00/326,36,Calcasieu
+00/327,36,Calcasieu
+00/331,36,Calcasieu
+00/332N,36,Calcasieu
+00/332S,36,Calcasieu
+00/333,36,Calcasieu
+00/334,36,Calcasieu
+00/335,36,Calcasieu
+00/336,36,Calcasieu
+00/337,36,Calcasieu
+00/338,36,Calcasieu
+00/339,36,Calcasieu
+00/340,36,Calcasieu
+00/362,36,Calcasieu
+00/363,36,Calcasieu
+00/366,36,Calcasieu
+00/367,36,Calcasieu
+00/368,36,Calcasieu
+00/369,36,Calcasieu
+00/372,36,Calcasieu
+00/261,37,Calcasieu
+00/262,37,Calcasieu
+00/360,37,Calcasieu
+00/800,37,Calcasieu
+00/801,37,Calcasieu
+00/860N,37,Calcasieu
+00/860S,37,Calcasieu
+00/861E,37,Calcasieu
+00/861W,37,Calcasieu
+00/01,37,Jefferson Davis
+00/02,37,Jefferson Davis
+00/03,37,Jefferson Davis
+00/04,37,Jefferson Davis
+00/05,37,Jefferson Davis
+00/05A,37,Jefferson Davis
+00/06,37,Jefferson Davis
+00/07,37,Jefferson Davis
+00/08,37,Jefferson Davis
+00/08A,37,Jefferson Davis
+00/09A,37,Jefferson Davis
+00/09B,37,Jefferson Davis
+00/10,37,Jefferson Davis
+00/10A,37,Jefferson Davis
+00/12,37,Jefferson Davis
+00/13,37,Jefferson Davis
+00/14,37,Jefferson Davis
+00/16,37,Jefferson Davis
+00/16A,37,Jefferson Davis
+00/18,37,Jefferson Davis
+00/19,37,Jefferson Davis
+00/20,37,Jefferson Davis
+00/21,37,Jefferson Davis
+00/23,37,Jefferson Davis
+00/23B,37,Jefferson Davis
+01/1010,38,Evangeline
+01/1020,38,Evangeline
+01/1030,38,Evangeline
+01/1031,38,Evangeline
+01/1040,38,Evangeline
+01/1041,38,Evangeline
+01/1050,38,Evangeline
+01/1080,38,Evangeline
+01/1081,38,Evangeline
+01/1090,38,Evangeline
+01/1091,38,Evangeline
+01/1100,38,Evangeline
+01/1101,38,Evangeline
+01/1110,38,Evangeline
+01/1120,38,Evangeline
+01/1130,38,Evangeline
+01/1140,38,Evangeline
+01/1150,38,Evangeline
+01/1160,38,Evangeline
+01/1161,38,Evangeline
+01/1162,38,Evangeline
+01/1170,38,Evangeline
+01/1171,38,Evangeline
+02/2010A,38,Evangeline
+03/3010,38,Evangeline
+03/3020,38,Evangeline
+03/3030,38,Evangeline
+03/3031,38,Evangeline
+03/3032,38,Evangeline
+03/3040,38,Evangeline
+03/3050,38,Evangeline
+03/3051,38,Evangeline
+03/3052,38,Evangeline
+03/3060,38,Evangeline
+03/3070,38,Evangeline
+03/3071,38,Evangeline
+04/4001,38,Evangeline
+04/4010,38,Evangeline
+04/4011,38,Evangeline
+04/4012,38,Evangeline
+04/4020,38,Evangeline
+04/4021,38,Evangeline
+04/4030,38,Evangeline
+04/4040,38,Evangeline
+05/5004,38,Evangeline
+05/5010,38,Evangeline
+05/5020,38,Evangeline
+05/5030,38,Evangeline
+05/5040,38,Evangeline
+05/5041,38,Evangeline
+05/5050,38,Evangeline
+00/S07,38,Rapides
+00/S10 AK,38,Rapides
+00/S10 LZ,38,Rapides
+00/S17,38,Rapides
+00/S18,38,Rapides
+00/S19,38,Rapides
+00/S20,38,Rapides
+00/S21,38,Rapides
+00/S22,38,Rapides
+00/S23,38,Rapides
+00/S24,38,Rapides
+00/S25,38,Rapides
+00/S26,38,Rapides
+00/S27,38,Rapides
+00/S28,38,Rapides
+00/S29,38,Rapides
+00/001,39,Lafayette
+00/002,39,Lafayette
+00/003,39,Lafayette
+00/004,39,Lafayette
+00/005,39,Lafayette
+00/006,39,Lafayette
+00/007,39,Lafayette
+00/008,39,Lafayette
+00/009,39,Lafayette
+00/026,39,Lafayette
+00/029,39,Lafayette
+00/030,39,Lafayette
+00/031,39,Lafayette
+00/050,39,Lafayette
+00/071,39,Lafayette
+00/113,39,Lafayette
+00/114,39,Lafayette
+00/119,39,Lafayette
+00/122,39,Lafayette
+00/123,39,Lafayette
+00/124,39,Lafayette
+00/06,40,St. Landry
+00/08,40,St. Landry
+00/09,40,St. Landry
+00/09A,40,St. Landry
+00/10,40,St. Landry
+00/10A,40,St. Landry
+00/11,40,St. Landry
+00/11B,40,St. Landry
+00/12,40,St. Landry
+00/13,40,St. Landry
+00/13A,40,St. Landry
+00/14,40,St. Landry
+00/14A,40,St. Landry
+00/14B,40,St. Landry
+00/15,40,St. Landry
+00/18,40,St. Landry
+00/18A,40,St. Landry
+00/18B,40,St. Landry
+00/19,40,St. Landry
+00/19A,40,St. Landry
+00/20,40,St. Landry
+00/20B,40,St. Landry
+00/21,40,St. Landry
+00/21A,40,St. Landry
+00/22,40,St. Landry
+00/22B,40,St. Landry
+00/23,40,St. Landry
+00/23A,40,St. Landry
+00/24,40,St. Landry
+00/24B,40,St. Landry
+00/25,40,St. Landry
+00/26,40,St. Landry
+00/26A,40,St. Landry
+00/27,40,St. Landry
+00/28,40,St. Landry
+00/29,40,St. Landry
+00/29A,40,St. Landry
+00/34,40,St. Landry
+00/34A,40,St. Landry
+00/35,40,St. Landry
+00/36,40,St. Landry
+00/37,40,St. Landry
+00/37A,40,St. Landry
+02/01,41,Acadia
+02/03,41,Acadia
+02/04,41,Acadia
+03/01,41,Acadia
+03/02,41,Acadia
+03/03,41,Acadia
+03/04,41,Acadia
+03/05,41,Acadia
+03/07,41,Acadia
+04/01,41,Acadia
+04/02,41,Acadia
+04/06,41,Acadia
+07/02,41,Acadia
+07/03,41,Acadia
+07/04,41,Acadia
+02/2010,41,Evangeline
+02/2020,41,Evangeline
+02/2030,41,Evangeline
+02/2040,41,Evangeline
+00/32,41,St. Landry
+00/32A,41,St. Landry
+00/33,41,St. Landry
+00/33A,41,St. Landry
+00/41,41,St. Landry
+00/41A,41,St. Landry
+00/42,41,St. Landry
+00/43,41,St. Landry
+00/44,41,St. Landry
+00/44A,41,St. Landry
+00/44B,41,St. Landry
+00/45,41,St. Landry
+00/46,41,St. Landry
+00/47,41,St. Landry
+00/48,41,St. Landry
+00/49,41,St. Landry
+00/50,41,St. Landry
+00/50A,41,St. Landry
+00/51,41,St. Landry
+00/51A,41,St. Landry
+00/52,41,St. Landry
+01/01,42,Acadia
+01/02,42,Acadia
+01/03,42,Acadia
+01/04,42,Acadia
+01/05,42,Acadia
+01/06,42,Acadia
+01/07,42,Acadia
+01/08,42,Acadia
+02/02,42,Acadia
+02/05,42,Acadia
+04/03,42,Acadia
+04/04,42,Acadia
+04/05,42,Acadia
+05/01,42,Acadia
+05/02,42,Acadia
+05/03,42,Acadia
+05/04,42,Acadia
+05/05,42,Acadia
+06/01,42,Acadia
+06/02,42,Acadia
+06/03,42,Acadia
+06/04,42,Acadia
+06/05,42,Acadia
+06/06,42,Acadia
+06/07,42,Acadia
+06/08,42,Acadia
+06/10,42,Acadia
+06/12,42,Acadia
+06/13,42,Acadia
+06/14,42,Acadia
+06/15,42,Acadia
+06/16,42,Acadia
+00/027,42,Lafayette
+00/028,42,Lafayette
+00/037,42,Lafayette
+00/087,43,Lafayette
+00/088,43,Lafayette
+00/089,43,Lafayette
+00/091,43,Lafayette
+00/092,43,Lafayette
+00/093,43,Lafayette
+00/094,43,Lafayette
+00/095,43,Lafayette
+00/096,43,Lafayette
+00/097,43,Lafayette
+00/098,43,Lafayette
+00/099,43,Lafayette
+00/104,43,Lafayette
+00/115,43,Lafayette
+00/120,43,Lafayette
+00/121,43,Lafayette
+00/126,43,Lafayette
+00/127,43,Lafayette
+00/128,43,Lafayette
+00/130,43,Lafayette
+00/131,43,Lafayette
+00/010,44,Lafayette
+00/011,44,Lafayette
+00/012,44,Lafayette
+00/013,44,Lafayette
+00/014,44,Lafayette
+00/015,44,Lafayette
+00/016,44,Lafayette
+00/017,44,Lafayette
+00/018,44,Lafayette
+00/019,44,Lafayette
+00/020,44,Lafayette
+00/021,44,Lafayette
+00/022,44,Lafayette
+00/023,44,Lafayette
+00/024,44,Lafayette
+00/025,44,Lafayette
+00/051,44,Lafayette
+00/052,44,Lafayette
+00/053,44,Lafayette
+00/055,44,Lafayette
+00/057,44,Lafayette
+00/058,44,Lafayette
+00/060,44,Lafayette
+00/061,44,Lafayette
+00/063,44,Lafayette
+00/064,44,Lafayette
+00/065,44,Lafayette
+00/066,44,Lafayette
+00/068,44,Lafayette
+00/072,44,Lafayette
+00/112,44,Lafayette
+00/129,44,Lafayette
+00/032,45,Lafayette
+00/033,45,Lafayette
+00/038,45,Lafayette
+00/039,45,Lafayette
+00/040,45,Lafayette
+00/041,45,Lafayette
+00/042,45,Lafayette
+00/043,45,Lafayette
+00/044,45,Lafayette
+00/045,45,Lafayette
+00/046,45,Lafayette
+00/047,45,Lafayette
+00/048,45,Lafayette
+00/049,45,Lafayette
+00/069,45,Lafayette
+00/070,45,Lafayette
+00/073,45,Lafayette
+00/074,45,Lafayette
+00/075,45,Lafayette
+00/076,45,Lafayette
+00/077,45,Lafayette
+00/078,45,Lafayette
+00/079,45,Lafayette
+00/080,45,Lafayette
+00/081,45,Lafayette
+00/082,45,Lafayette
+00/083,45,Lafayette
+00/084,45,Lafayette
+00/090,45,Lafayette
+00/02,46,St. Landry
+00/02A,46,St. Landry
+00/02B,46,St. Landry
+00/02C,46,St. Landry
+00/03,46,St. Landry
+00/05,46,St. Landry
+00/07,46,St. Landry
+00/07A,46,St. Landry
+00/16,46,St. Landry
+00/16A,46,St. Landry
+00/17,46,St. Landry
+00/30,46,St. Landry
+00/30A,46,St. Landry
+00/30B,46,St. Landry
+00/31,46,St. Landry
+00/38,46,St. Landry
+00/39,46,St. Landry
+00/39A,46,St. Landry
+00/40,46,St. Landry
+00/16,46,St. Martin
+00/17,46,St. Martin
+00/20,46,St. Martin
+00/21,46,St. Martin
+00/22,46,St. Martin
+00/23,46,St. Martin
+00/26,46,St. Martin
+00/27,46,St. Martin
+00/28,46,St. Martin
+00/29,46,St. Martin
+00/30,46,St. Martin
+00/31,46,St. Martin
+00/32,46,St. Martin
+00/33,46,St. Martin
+00/34,46,St. Martin
+00/35,46,St. Martin
+00/36,46,St. Martin
+00/37,46,St. Martin
+00/38,46,St. Martin
+00/39,46,St. Martin
+00/40,46,St. Martin
+00/41,46,St. Martin
+00/42,46,St. Martin
+00/43,46,St. Martin
+00/260,47,Calcasieu
+00/365,47,Calcasieu
+00/370,47,Calcasieu
+00/371N,47,Calcasieu
+00/371S,47,Calcasieu
+*ALL/*ALL,47,Cameron
+00/01,47,Vermilion
+00/02,47,Vermilion
+00/04,47,Vermilion
+00/05,47,Vermilion
+00/06,47,Vermilion
+00/07,47,Vermilion
+00/07A,47,Vermilion
+00/07B,47,Vermilion
+00/07C,47,Vermilion
+00/08,47,Vermilion
+00/09,47,Vermilion
+00/10,47,Vermilion
+00/11,47,Vermilion
+00/12,47,Vermilion
+00/14,47,Vermilion
+00/16,47,Vermilion
+00/17,47,Vermilion
+00/18,47,Vermilion
+00/19,47,Vermilion
+00/19A,47,Vermilion
+00/20,47,Vermilion
+00/20A,47,Vermilion
+00/20B,47,Vermilion
+00/21,47,Vermilion
+00/21A,47,Vermilion
+00/23,47,Vermilion
+00/28,47,Vermilion
+00/29,47,Vermilion
+00/30,47,Vermilion
+00/31,47,Vermilion
+00/38,47,Vermilion
+00/40,47,Vermilion
+00/56,47,Vermilion
+00/57B,47,Vermilion
+01/03,48,Iberia
+02/02,48,Iberia
+02/03,48,Iberia
+03/02,48,Iberia
+03/03,48,Iberia
+03/04,48,Iberia
+05/01,48,Iberia
+06/02,48,Iberia
+07/01,48,Iberia
+07/02,48,Iberia
+07/04,48,Iberia
+07/05,48,Iberia
+08/01,48,Iberia
+08/02,48,Iberia
+08/03,48,Iberia
+09/02,48,Iberia
+09/04,48,Iberia
+09/05,48,Iberia
+11/03,48,Iberia
+11/05,48,Iberia
+13/04,48,Iberia
+14/01,48,Iberia
+14/05,48,Iberia
+00/100,48,Lafayette
+00/101,48,Lafayette
+00/102,48,Lafayette
+00/110,48,Lafayette
+00/134,48,Lafayette
+00/135,48,Lafayette
+00/03,48,St. Martin
+00/04,48,St. Martin
+00/05,48,St. Martin
+03/05,49,Iberia
+05/02,49,Iberia
+05/05,49,Iberia
+06/05,49,Iberia
+10/03,49,Iberia
+10/04,49,Iberia
+12/04,49,Iberia
+13/01,49,Iberia
+13/02,49,Iberia
+13/03,49,Iberia
+13/05,49,Iberia
+14/03,49,Iberia
+14/04,49,Iberia
+00/103,49,Lafayette
+00/107,49,Lafayette
+00/108,49,Lafayette
+00/111,49,Lafayette
+00/116,49,Lafayette
+00/118,49,Lafayette
+00/136,49,Lafayette
+00/41,49,Vermilion
+00/42,49,Vermilion
+00/44,49,Vermilion
+00/45,49,Vermilion
+00/45A,49,Vermilion
+00/46B,49,Vermilion
+00/47,49,Vermilion
+00/49,49,Vermilion
+00/49A,49,Vermilion
+00/49B,49,Vermilion
+00/49C,49,Vermilion
+00/50,49,Vermilion
+00/51,49,Vermilion
+00/53,49,Vermilion
+00/57A,49,Vermilion
+00/01,50,St. Martin
+00/02,50,St. Martin
+00/01,50,St. Mary
+00/02,50,St. Mary
+00/03,50,St. Mary
+00/04,50,St. Mary
+00/05,50,St. Mary
+00/06,50,St. Mary
+00/06A,50,St. Mary
+00/07,50,St. Mary
+00/08,50,St. Mary
+00/09,50,St. Mary
+00/10,50,St. Mary
+00/11,50,St. Mary
+00/12,50,St. Mary
+00/13,50,St. Mary
+00/14,50,St. Mary
+00/15,50,St. Mary
+00/16,50,St. Mary
+00/17,50,St. Mary
+00/18,50,St. Mary
+00/19,50,St. Mary
+00/20,50,St. Mary
+00/21,50,St. Mary
+00/22,50,St. Mary
+00/23,50,St. Mary
+00/24,50,St. Mary
+00/25,50,St. Mary
+00/26,50,St. Mary
+00/27,50,St. Mary
+00/28,50,St. Mary
+00/29,50,St. Mary
+00/30,50,St. Mary
+00/31,50,St. Mary
+00/32,50,St. Mary
+00/33,50,St. Mary
+00/34,50,St. Mary
+00/35,50,St. Mary
+00/36,50,St. Mary
+00/38,50,St. Mary
+00/39,50,St. Mary
+00/42,50,St. Mary
+02/03,51,Assumption
+02/04,51,Assumption
+02/05,51,Assumption
+03/01,51,Assumption
+03/02,51,Assumption
+04/03,51,Assumption
+04/04,51,Assumption
+01/01,51,Lafourche
+01/02,51,Lafourche
+01/04,51,Lafourche
+01/06,51,Lafourche
+11/03,51,Lafourche
+11/05,51,Lafourche
+00/37,51,St. Mary
+00/40,51,St. Mary
+00/41,51,St. Mary
+00/43,51,St. Mary
+00/44,51,St. Mary
+00/45,51,St. Mary
+00/001,51,Terrebonne
+00/002,51,Terrebonne
+00/005,51,Terrebonne
+00/007 A,51,Terrebonne
+00/007 L,51,Terrebonne
+00/008,51,Terrebonne
+00/010,51,Terrebonne
+00/011,51,Terrebonne
+00/027,51,Terrebonne
+00/028,51,Terrebonne
+00/030,51,Terrebonne
+00/033,51,Terrebonne
+00/037,51,Terrebonne
+00/064,51,Terrebonne
+00/065,51,Terrebonne
+00/067,51,Terrebonne
+00/076,51,Terrebonne
+00/012,52,Terrebonne
+00/014,52,Terrebonne
+00/015,52,Terrebonne
+00/016,52,Terrebonne
+00/017,52,Terrebonne
+00/018,52,Terrebonne
+00/035,52,Terrebonne
+00/038,52,Terrebonne
+00/039,52,Terrebonne
+00/040,52,Terrebonne
+00/041,52,Terrebonne
+00/042,52,Terrebonne
+00/043,52,Terrebonne
+00/045,52,Terrebonne
+00/048,52,Terrebonne
+00/051,52,Terrebonne
+00/068,52,Terrebonne
+00/069,52,Terrebonne
+00/074,52,Terrebonne
+00/081,52,Terrebonne
+00/083,52,Terrebonne
+00/084,52,Terrebonne
+00/085,52,Terrebonne
+00/087,52,Terrebonne
+00/090,52,Terrebonne
+00/094,52,Terrebonne
+00/095,52,Terrebonne
+00/019,53,Terrebonne
+00/020,53,Terrebonne
+00/021,53,Terrebonne
+00/023,53,Terrebonne
+00/025,53,Terrebonne
+00/029,53,Terrebonne
+00/031,53,Terrebonne
+00/034 A,53,Terrebonne
+00/034 M,53,Terrebonne
+00/049,53,Terrebonne
+00/052,53,Terrebonne
+00/053,53,Terrebonne
+00/055,53,Terrebonne
+00/056,53,Terrebonne
+00/057,53,Terrebonne
+00/058,53,Terrebonne
+00/059,53,Terrebonne
+00/060,53,Terrebonne
+00/062,53,Terrebonne
+00/063,53,Terrebonne
+00/071,53,Terrebonne
+00/072,53,Terrebonne
+00/073,53,Terrebonne
+00/088,53,Terrebonne
+00/100,53,Terrebonne
+00/110,53,Terrebonne
+00/115,53,Terrebonne
+00/GI001,54,Jefferson
+03/02,54,Lafourche
+03/03,54,Lafourche
+03/07,54,Lafourche
+04/01,54,Lafourche
+04/02,54,Lafourche
+04/03,54,Lafourche
+04/04,54,Lafourche
+04/05,54,Lafourche
+04/06,54,Lafourche
+07/03,54,Lafourche
+08/01,54,Lafourche
+09/01,54,Lafourche
+09/02,54,Lafourche
+10/01,54,Lafourche
+10/02,54,Lafourche
+10/03,54,Lafourche
+10/04,54,Lafourche
+10/06,54,Lafourche
+10/08,54,Lafourche
+10/09,54,Lafourche
+10/10,54,Lafourche
+10/11,54,Lafourche
+10/12,54,Lafourche
+10/13,54,Lafourche
+10/14,54,Lafourche
+10/15,54,Lafourche
+10/16,54,Lafourche
+11/01,54,Lafourche
+11/02 A,54,Lafourche
+11/02 B,54,Lafourche
+01/03,55,Lafourche
+01/05,55,Lafourche
+02/01,55,Lafourche
+02/01A,55,Lafourche
+02/02 A,55,Lafourche
+02/02 B,55,Lafourche
+02/03,55,Lafourche
+02/05,55,Lafourche
+02/06,55,Lafourche
+02/07,55,Lafourche
+02/08,55,Lafourche
+02/09,55,Lafourche
+02/10,55,Lafourche
+02/11,55,Lafourche
+02/12,55,Lafourche
+02/13,55,Lafourche
+02/14,55,Lafourche
+02/15,55,Lafourche
+02/16,55,Lafourche
+03/01,55,Lafourche
+03/04,55,Lafourche
+03/05,55,Lafourche
+03/06,55,Lafourche
+05/01,55,Lafourche
+05/01A,55,Lafourche
+05/02,55,Lafourche
+05/03,55,Lafourche
+06/01,55,Lafourche
+06/02,55,Lafourche
+06/03,55,Lafourche
+06/04,55,Lafourche
+06/05,55,Lafourche
+07/01,55,Lafourche
+07/02,55,Lafourche
+07/04,55,Lafourche
+11/04,55,Lafourche
+01/4,56,St. Charles
+01/6,56,St. Charles
+02/1,56,St. Charles
+02/3,56,St. Charles
+02/4,56,St. Charles
+02/5,56,St. Charles
+02/5 A,56,St. Charles
+02/6,56,St. Charles
+03/1,56,St. Charles
+03/1 A,56,St. Charles
+03/1 B,56,St. Charles
+03/2,56,St. Charles
+03/3,56,St. Charles
+04/1,56,St. Charles
+04/1 A,56,St. Charles
+04/2,56,St. Charles
+04/3,56,St. Charles
+04/5,56,St. Charles
+05/1,56,St. Charles
+05/3,56,St. Charles
+05/4,56,St. Charles
+05/5,56,St. Charles
+06/1,56,St. Charles
+06/2,56,St. Charles
+06/2 A,56,St. Charles
+06/3,56,St. Charles
+06/4,56,St. Charles
+06/6,56,St. Charles
+07/1,56,St. Charles
+07/2,56,St. Charles
+07/2 A,56,St. Charles
+07/3,56,St. Charles
+07/3 A,56,St. Charles
+07/4,56,St. Charles
+07/4 A,56,St. Charles
+07/5,56,St. Charles
+01/07,56,St. John The Baptist
+01/1,57,St. Charles
+01/2,57,St. Charles
+01/2 A,57,St. Charles
+01/3,57,St. Charles
+01/5,57,St. Charles
+04/4,57,St. Charles
+01/02,57,St. John The Baptist
+01/04,57,St. John The Baptist
+01/05,57,St. John The Baptist
+01/06,57,St. John The Baptist
+02/04,57,St. John The Baptist
+02/05,57,St. John The Baptist
+03/01,57,St. John The Baptist
+03/02,57,St. John The Baptist
+03/04,57,St. John The Baptist
+03/07,57,St. John The Baptist
+04/01,57,St. John The Baptist
+04/02,57,St. John The Baptist
+04/03,57,St. John The Baptist
+04/04,57,St. John The Baptist
+04/05,57,St. John The Baptist
+05/01,57,St. John The Baptist
+05/02,57,St. John The Baptist
+05/03,57,St. John The Baptist
+05/04,57,St. John The Baptist
+05/05,57,St. John The Baptist
+06/01,57,St. John The Baptist
+06/02,57,St. John The Baptist
+06/03,57,St. John The Baptist
+06/04,57,St. John The Baptist
+06/05,57,St. John The Baptist
+07/01,57,St. John The Baptist
+07/02,57,St. John The Baptist
+07/03,57,St. John The Baptist
+07/04,57,St. John The Baptist
+00/23,58,Ascension
+00/28,58,Ascension
+00/30,58,Ascension
+00/36,58,Ascension
+00/37,58,Ascension
+00/38,58,Ascension
+00/39,58,Ascension
+00/42,58,Ascension
+00/44,58,Ascension
+00/45,58,Ascension
+00/47,58,Ascension
+00/48,58,Ascension
+00/50,58,Ascension
+00/51,58,Ascension
+00/52,58,Ascension
+00/53,58,Ascension
+00/54,58,Ascension
+00/55,58,Ascension
+00/57,58,Ascension
+00/73,58,Ascension
+00/01,58,St. James
+00/02,58,St. James
+00/04,58,St. James
+00/05,58,St. James
+00/07,58,St. James
+00/10,58,St. James
+00/12,58,St. James
+00/13,58,St. James
+00/14,58,St. James
+00/15,58,St. James
+00/16,58,St. James
+00/17,58,St. James
+00/18,58,St. James
+00/19,58,St. James
+00/22,58,St. James
+01/01,58,St. John The Baptist
+01/03,58,St. John The Baptist
+02/01,58,St. John The Baptist
+02/02,58,St. John The Baptist
+02/03,58,St. John The Baptist
+03/03,58,St. John The Baptist
+00/01 A,59,Ascension
+00/01 B,59,Ascension
+00/02,59,Ascension
+00/06,59,Ascension
+00/07,59,Ascension
+00/08 A,59,Ascension
+00/08 B,59,Ascension
+00/09,59,Ascension
+00/11 A,59,Ascension
+00/11 B,59,Ascension
+00/16,59,Ascension
+00/17,59,Ascension
+00/19,59,Ascension
+00/20,59,Ascension
+00/61,59,Ascension
+00/62,59,Ascension
+00/63,59,Ascension
+00/64,59,Ascension
+00/71,59,Ascension
+00/72,59,Ascension
+00/77,59,Ascension
+00/78,59,Ascension
+01/01,60,Assumption
+01/02,60,Assumption
+01/03,60,Assumption
+02/01,60,Assumption
+04/01,60,Assumption
+05/01,60,Assumption
+05/02,60,Assumption
+05/03,60,Assumption
+05/05,60,Assumption
+06/01,60,Assumption
+06/01 A,60,Assumption
+06/02,60,Assumption
+06/03,60,Assumption
+07/01,60,Assumption
+07/01 A,60,Assumption
+07/02,60,Assumption
+07/03,60,Assumption
+08/01,60,Assumption
+08/01 A,60,Assumption
+09/01,60,Assumption
+09/01 A,60,Assumption
+00/01,60,Iberville
+00/03,60,Iberville
+00/04,60,Iberville
+00/05,60,Iberville
+00/06,60,Iberville
+00/07,60,Iberville
+00/09,60,Iberville
+00/10,60,Iberville
+00/10B,60,Iberville
+00/11,60,Iberville
+00/12,60,Iberville
+00/13,60,Iberville
+00/14,60,Iberville
+00/14A,60,Iberville
+00/15,60,Iberville
+00/15A,60,Iberville
+00/16,60,Iberville
+00/17,60,Iberville
+00/18,60,Iberville
+00/19,60,Iberville
+00/20,60,Iberville
+00/21,60,Iberville
+00/22,60,Iberville
+00/24,60,Iberville
+00/25,60,Iberville
+00/26,60,Iberville
+00/27,60,Iberville
+00/28,60,Iberville
+00/29,60,Iberville
+01/002 A,61,East Baton Rouge
+01/002 B,61,East Baton Rouge
+01/007,61,East Baton Rouge
+01/014 A,61,East Baton Rouge
+01/014 B,61,East Baton Rouge
+01/027,61,East Baton Rouge
+01/028,61,East Baton Rouge
+01/029,61,East Baton Rouge
+01/030,61,East Baton Rouge
+01/031 A,61,East Baton Rouge
+01/031 B,61,East Baton Rouge
+01/032 A,61,East Baton Rouge
+01/032 B,61,East Baton Rouge
+01/033,61,East Baton Rouge
+01/036,61,East Baton Rouge
+01/037 A,61,East Baton Rouge
+01/037 B,61,East Baton Rouge
+01/040,61,East Baton Rouge
+01/050,61,East Baton Rouge
+01/054,61,East Baton Rouge
+01/057,61,East Baton Rouge
+01/061,61,East Baton Rouge
+01/062,61,East Baton Rouge
+01/063 A,61,East Baton Rouge
+01/063 B,61,East Baton Rouge
+01/064,61,East Baton Rouge
+01/078 A,61,East Baton Rouge
+01/078 B,61,East Baton Rouge
+01/093,61,East Baton Rouge
+01/096,61,East Baton Rouge
+01/104 A,61,East Baton Rouge
+01/104 B,61,East Baton Rouge
+01/011,62,East Baton Rouge
+01/084,62,East Baton Rouge
+02/003,62,East Baton Rouge
+02/010 A,62,East Baton Rouge
+02/010 B,62,East Baton Rouge
+02/011,62,East Baton Rouge
+02/012 A,62,East Baton Rouge
+02/012 B,62,East Baton Rouge
+02/014 A,62,East Baton Rouge
+02/014 B,62,East Baton Rouge
+02/015,62,East Baton Rouge
+02/017 A,62,East Baton Rouge
+02/017 B,62,East Baton Rouge
+02/025 A,62,East Baton Rouge
+02/025 B,62,East Baton Rouge
+02/026,62,East Baton Rouge
+02/028,62,East Baton Rouge
+*ALL/*ALL,62,East Feliciana
+01/086 A,63,East Baton Rouge
+01/086 B,63,East Baton Rouge
+01/091 A,63,East Baton Rouge
+01/091 B,63,East Baton Rouge
+01/092 A,63,East Baton Rouge
+01/092 B,63,East Baton Rouge
+01/094,63,East Baton Rouge
+01/095 A,63,East Baton Rouge
+01/095 B,63,East Baton Rouge
+01/100 A,63,East Baton Rouge
+01/100 B,63,East Baton Rouge
+01/101 A,63,East Baton Rouge
+01/101 B,63,East Baton Rouge
+02/002 A,63,East Baton Rouge
+02/002 B,63,East Baton Rouge
+02/004,63,East Baton Rouge
+02/005,63,East Baton Rouge
+02/009 A,63,East Baton Rouge
+02/009 B,63,East Baton Rouge
+02/013 A,63,East Baton Rouge
+02/013 B,63,East Baton Rouge
+02/018 A,63,East Baton Rouge
+02/018 B,63,East Baton Rouge
+02/019,63,East Baton Rouge
+02/020,63,East Baton Rouge
+02/021,63,East Baton Rouge
+02/022 A,63,East Baton Rouge
+02/022 B,63,East Baton Rouge
+02/024,63,East Baton Rouge
+02/029,63,East Baton Rouge
+02/031,63,East Baton Rouge
+02/032,63,East Baton Rouge
+02/034,63,East Baton Rouge
+02/035,63,East Baton Rouge
+02/036 A,63,East Baton Rouge
+02/036 B,63,East Baton Rouge
+02/037,63,East Baton Rouge
+02/038,63,East Baton Rouge
+02/006 A,64,East Baton Rouge
+02/006 B,64,East Baton Rouge
+02/007 A,64,East Baton Rouge
+02/007 B,64,East Baton Rouge
+00/01,64,Livingston
+00/01A,64,Livingston
+00/01B,64,Livingston
+00/01C,64,Livingston
+00/01D,64,Livingston
+00/02,64,Livingston
+00/02A,64,Livingston
+00/03,64,Livingston
+00/03A,64,Livingston
+00/03B,64,Livingston
+00/04,64,Livingston
+00/04A,64,Livingston
+00/04B,64,Livingston
+00/05,64,Livingston
+00/05B,64,Livingston
+00/05D,64,Livingston
+00/39A,64,Livingston
+00/39B,64,Livingston
+00/40,64,Livingston
+00/40A,64,Livingston
+01/097,65,East Baton Rouge
+02/008,65,East Baton Rouge
+02/033,65,East Baton Rouge
+03/001 A,65,East Baton Rouge
+03/001 B,65,East Baton Rouge
+03/002 A,65,East Baton Rouge
+03/002 B,65,East Baton Rouge
+03/006 A,65,East Baton Rouge
+03/006 B,65,East Baton Rouge
+03/009 A,65,East Baton Rouge
+03/009 B,65,East Baton Rouge
+03/012 A,65,East Baton Rouge
+03/012 B,65,East Baton Rouge
+03/014 A,65,East Baton Rouge
+03/014 B,65,East Baton Rouge
+03/021 A,65,East Baton Rouge
+03/021 B,65,East Baton Rouge
+03/025 A,65,East Baton Rouge
+03/025 B,65,East Baton Rouge
+03/026 A,65,East Baton Rouge
+03/026 B,65,East Baton Rouge
+03/030 A,65,East Baton Rouge
+03/030 B,65,East Baton Rouge
+03/032,65,East Baton Rouge
+03/037,65,East Baton Rouge
+03/046,65,East Baton Rouge
+03/054,65,East Baton Rouge
+03/058,65,East Baton Rouge
+03/061,65,East Baton Rouge
+03/072,65,East Baton Rouge
+01/089,66,East Baton Rouge
+01/098 A,66,East Baton Rouge
+01/098 B,66,East Baton Rouge
+01/103 A,66,East Baton Rouge
+01/103 B,66,East Baton Rouge
+03/010,66,East Baton Rouge
+03/016,66,East Baton Rouge
+03/019 A,66,East Baton Rouge
+03/019 B,66,East Baton Rouge
+03/022,66,East Baton Rouge
+03/034 A,66,East Baton Rouge
+03/034 B,66,East Baton Rouge
+03/038,66,East Baton Rouge
+03/043 A,66,East Baton Rouge
+03/043 B,66,East Baton Rouge
+03/045 A,66,East Baton Rouge
+03/045 B,66,East Baton Rouge
+03/047 A,66,East Baton Rouge
+03/047 B,66,East Baton Rouge
+03/053 A,66,East Baton Rouge
+03/053 B,66,East Baton Rouge
+03/056,66,East Baton Rouge
+03/059,66,East Baton Rouge
+03/063,66,East Baton Rouge
+03/066,66,East Baton Rouge
+03/067,66,East Baton Rouge
+03/070,66,East Baton Rouge
+03/071,66,East Baton Rouge
+03/073 A,66,East Baton Rouge
+03/073 B,66,East Baton Rouge
+03/075,66,East Baton Rouge
+03/076,66,East Baton Rouge
+01/001,67,East Baton Rouge
+01/003,67,East Baton Rouge
+01/004,67,East Baton Rouge
+01/005 A,67,East Baton Rouge
+01/005 B,67,East Baton Rouge
+01/006,67,East Baton Rouge
+01/010 A,67,East Baton Rouge
+01/010 B,67,East Baton Rouge
+01/013,67,East Baton Rouge
+01/015 A,67,East Baton Rouge
+01/015 B,67,East Baton Rouge
+01/016,67,East Baton Rouge
+01/038 A,67,East Baton Rouge
+01/038 B,67,East Baton Rouge
+01/045,67,East Baton Rouge
+01/046,67,East Baton Rouge
+01/051,67,East Baton Rouge
+01/067,67,East Baton Rouge
+01/068,67,East Baton Rouge
+01/102,67,East Baton Rouge
+03/020 A,67,East Baton Rouge
+03/020 B,67,East Baton Rouge
+03/044 A,67,East Baton Rouge
+03/044 B,67,East Baton Rouge
+03/050 A,67,East Baton Rouge
+03/050 B,67,East Baton Rouge
+03/057,67,East Baton Rouge
+03/069 A,67,East Baton Rouge
+03/069 B,67,East Baton Rouge
+01/008,68,East Baton Rouge
+01/035,68,East Baton Rouge
+01/039,68,East Baton Rouge
+01/041 A,68,East Baton Rouge
+01/041 B,68,East Baton Rouge
+01/042 A,68,East Baton Rouge
+01/042 B,68,East Baton Rouge
+01/044,68,East Baton Rouge
+01/048 A,68,East Baton Rouge
+01/048 B,68,East Baton Rouge
+01/056,68,East Baton Rouge
+01/059,68,East Baton Rouge
+01/065,68,East Baton Rouge
+01/073 A,68,East Baton Rouge
+01/073 B,68,East Baton Rouge
+01/079,68,East Baton Rouge
+01/105,68,East Baton Rouge
+01/106,68,East Baton Rouge
+03/017 A,68,East Baton Rouge
+03/017 B,68,East Baton Rouge
+03/018 A,68,East Baton Rouge
+03/018 B,68,East Baton Rouge
+03/035 A,68,East Baton Rouge
+03/035 B,68,East Baton Rouge
+03/036,68,East Baton Rouge
+03/049 A,68,East Baton Rouge
+03/049 B,68,East Baton Rouge
+03/051,68,East Baton Rouge
+03/052 A,68,East Baton Rouge
+03/052 B,68,East Baton Rouge
+03/074,68,East Baton Rouge
+01/034 A,69,East Baton Rouge
+01/034 B,69,East Baton Rouge
+01/049 A,69,East Baton Rouge
+01/049 B,69,East Baton Rouge
+01/052 A,69,East Baton Rouge
+01/052 B,69,East Baton Rouge
+01/053 A,69,East Baton Rouge
+01/053 B,69,East Baton Rouge
+01/072 A,69,East Baton Rouge
+01/072 B,69,East Baton Rouge
+01/074 A,69,East Baton Rouge
+01/074 B,69,East Baton Rouge
+01/080 A,69,East Baton Rouge
+01/080 B,69,East Baton Rouge
+01/099 A,69,East Baton Rouge
+01/099 B,69,East Baton Rouge
+03/003 A,69,East Baton Rouge
+03/003 B,69,East Baton Rouge
+03/007 A,69,East Baton Rouge
+03/007 B,69,East Baton Rouge
+03/011,69,East Baton Rouge
+03/013,69,East Baton Rouge
+03/015 A,69,East Baton Rouge
+03/015 B,69,East Baton Rouge
+03/027 A,69,East Baton Rouge
+03/027 B,69,East Baton Rouge
+03/029 A,69,East Baton Rouge
+03/029 B,69,East Baton Rouge
+03/031 A,69,East Baton Rouge
+03/031 B,69,East Baton Rouge
+03/039,69,East Baton Rouge
+03/041 A,69,East Baton Rouge
+03/041 B,69,East Baton Rouge
+03/060 A,69,East Baton Rouge
+03/060 B,69,East Baton Rouge
+01/012 A,70,East Baton Rouge
+01/012 B,70,East Baton Rouge
+01/043,70,East Baton Rouge
+01/047 A,70,East Baton Rouge
+01/047 B,70,East Baton Rouge
+01/066 A,70,East Baton Rouge
+01/066 B,70,East Baton Rouge
+01/069 A,70,East Baton Rouge
+01/069 B,70,East Baton Rouge
+01/075 A,70,East Baton Rouge
+01/075 B,70,East Baton Rouge
+01/076,70,East Baton Rouge
+01/107,70,East Baton Rouge
+03/004 A,70,East Baton Rouge
+03/004 B,70,East Baton Rouge
+03/005,70,East Baton Rouge
+03/023 A,70,East Baton Rouge
+03/023 B,70,East Baton Rouge
+03/033 A,70,East Baton Rouge
+03/033 B,70,East Baton Rouge
+03/040 A,70,East Baton Rouge
+03/040 B,70,East Baton Rouge
+03/048 A,70,East Baton Rouge
+03/048 B,70,East Baton Rouge
+03/055 A,70,East Baton Rouge
+03/055 B,70,East Baton Rouge
+03/062,70,East Baton Rouge
+03/064,70,East Baton Rouge
+03/065,70,East Baton Rouge
+03/068,70,East Baton Rouge
+00/07A,71,Livingston
+00/23,71,Livingston
+00/23A,71,Livingston
+00/23B,71,Livingston
+00/23C,71,Livingston
+00/24,71,Livingston
+00/24B,71,Livingston
+00/24C,71,Livingston
+00/24D,71,Livingston
+00/25,71,Livingston
+00/26,71,Livingston
+00/26A,71,Livingston
+00/26B,71,Livingston
+00/26C,71,Livingston
+00/27,71,Livingston
+00/28,71,Livingston
+00/35,71,Livingston
+00/35A,71,Livingston
+00/36,71,Livingston
+00/39,71,Livingston
+00/41,71,Livingston
+*ALL/*ALL,72,St. Helena
+00/002,72,Tangipahoa
+00/006,72,Tangipahoa
+00/011,72,Tangipahoa
+00/015,72,Tangipahoa
+00/016,72,Tangipahoa
+00/017,72,Tangipahoa
+00/043,72,Tangipahoa
+00/046,72,Tangipahoa
+00/047,72,Tangipahoa
+00/049,72,Tangipahoa
+00/101,72,Tangipahoa
+00/102,72,Tangipahoa
+00/104,72,Tangipahoa
+00/106,72,Tangipahoa
+00/107,72,Tangipahoa
+00/109,72,Tangipahoa
+00/111A,72,Tangipahoa
+00/115B,72,Tangipahoa
+00/119,72,Tangipahoa
+00/123,72,Tangipahoa
+00/129A,72,Tangipahoa
+00/070,73,Tangipahoa
+00/070A,73,Tangipahoa
+00/071,73,Tangipahoa
+00/072,73,Tangipahoa
+00/073,73,Tangipahoa
+00/074,73,Tangipahoa
+00/116,73,Tangipahoa
+00/120,73,Tangipahoa
+00/120B,73,Tangipahoa
+00/122A,73,Tangipahoa
+00/122B,73,Tangipahoa
+00/122C,73,Tangipahoa
+00/124,73,Tangipahoa
+00/137,73,Tangipahoa
+00/137A,73,Tangipahoa
+00/137B,73,Tangipahoa
+00/137C,73,Tangipahoa
+00/137D,73,Tangipahoa
+00/143,73,Tangipahoa
+00/143A,73,Tangipahoa
+00/145,73,Tangipahoa
+00/147,73,Tangipahoa
+00/149,73,Tangipahoa
+00/149A,73,Tangipahoa
+00/151,73,Tangipahoa
+00/201,74,St. Tammany
+00/202,74,St. Tammany
+00/203,74,St. Tammany
+00/204,74,St. Tammany
+00/205,74,St. Tammany
+00/206,74,St. Tammany
+00/207,74,St. Tammany
+00/302,74,St. Tammany
+00/303,74,St. Tammany
+00/304,74,St. Tammany
+00/305,74,St. Tammany
+00/308,74,St. Tammany
+00/501,74,St. Tammany
+00/502,74,St. Tammany
+00/503,74,St. Tammany
+00/504,74,St. Tammany
+00/505,74,St. Tammany
+00/602,74,St. Tammany
+00/603,74,St. Tammany
+00/604,74,St. Tammany
+00/606,74,St. Tammany
+00/609,74,St. Tammany
+00/A01,74,St. Tammany
+00/A02,74,St. Tammany
+00/A02A,74,St. Tammany
+00/A03,74,St. Tammany
+00/A04,74,St. Tammany
+00/C09,74,St. Tammany
+00/F01,74,St. Tammany
+00/P01,74,St. Tammany
+*ALL/*ALL,75,Washington
+00/801,76,St. Tammany
+00/804,76,St. Tammany
+00/805,76,St. Tammany
+00/806,76,St. Tammany
+00/807,76,St. Tammany
+00/808,76,St. Tammany
+00/809,76,St. Tammany
+00/810,76,St. Tammany
+00/811,76,St. Tammany
+00/812,76,St. Tammany
+00/813,76,St. Tammany
+00/814,76,St. Tammany
+00/816,76,St. Tammany
+00/817,76,St. Tammany
+00/818,76,St. Tammany
+00/909,76,St. Tammany
+00/909A,76,St. Tammany
+00/918,76,St. Tammany
+00/922,76,St. Tammany
+00/S10,76,St. Tammany
+00/S11,76,St. Tammany
+00/S16,76,St. Tammany
+00/S17,76,St. Tammany
+00/S21,76,St. Tammany
+00/S23,76,St. Tammany
+00/S24,76,St. Tammany
+00/101,77,St. Tammany
+00/104,77,St. Tammany
+00/105,77,St. Tammany
+00/106,77,St. Tammany
+00/106A,77,St. Tammany
+00/107,77,St. Tammany
+00/108,77,St. Tammany
+00/110,77,St. Tammany
+00/111,77,St. Tammany
+00/112,77,St. Tammany
+00/113,77,St. Tammany
+00/114,77,St. Tammany
+00/115,77,St. Tammany
+00/116,77,St. Tammany
+00/118,77,St. Tammany
+00/301,77,St. Tammany
+00/310,77,St. Tammany
+00/314,77,St. Tammany
+00/C01,77,St. Tammany
+00/C02,77,St. Tammany
+00/C03,77,St. Tammany
+00/C04,77,St. Tammany
+00/C06,77,St. Tammany
+00/C07,77,St. Tammany
+00/C08,77,St. Tammany
+00/C11,77,St. Tammany
+00/009,78,Jefferson
+00/011,78,Jefferson
+00/021,78,Jefferson
+00/022,78,Jefferson
+00/051,78,Jefferson
+00/052,78,Jefferson
+00/053,78,Jefferson
+00/054,78,Jefferson
+00/056,78,Jefferson
+00/057,78,Jefferson
+00/058,78,Jefferson
+00/059,78,Jefferson
+00/061,78,Jefferson
+00/062,78,Jefferson
+00/117,78,Jefferson
+00/118,78,Jefferson
+00/119,78,Jefferson
+00/120,78,Jefferson
+00/121,78,Jefferson
+00/122,78,Jefferson
+00/123,78,Jefferson
+00/124,78,Jefferson
+00/H001,78,Jefferson
+00/H002,78,Jefferson
+00/H003,78,Jefferson
+00/H004,78,Jefferson
+00/H005,78,Jefferson
+00/H006,78,Jefferson
+00/H007,78,Jefferson
+00/H008,78,Jefferson
+00/H009,78,Jefferson
+00/001,79,Jefferson
+00/002,79,Jefferson
+00/003,79,Jefferson
+00/004,79,Jefferson
+00/005,79,Jefferson
+00/012,79,Jefferson
+00/013,79,Jefferson
+00/014,79,Jefferson
+00/015,79,Jefferson
+00/016,79,Jefferson
+00/017,79,Jefferson
+00/K001,79,Jefferson
+00/K002,79,Jefferson
+00/K003,79,Jefferson
+00/K004,79,Jefferson
+00/K005,79,Jefferson
+00/K006A,79,Jefferson
+00/K006B,79,Jefferson
+00/K007A,79,Jefferson
+00/K007B,79,Jefferson
+00/K008,79,Jefferson
+00/K009,79,Jefferson
+00/K010,79,Jefferson
+00/K012,79,Jefferson
+00/K034,79,Jefferson
+00/K035,79,Jefferson
+00/018,80,Jefferson
+00/019,80,Jefferson
+00/020,80,Jefferson
+00/023,80,Jefferson
+00/024,80,Jefferson
+00/029,80,Jefferson
+00/031,80,Jefferson
+00/032,80,Jefferson
+00/033,80,Jefferson
+00/035,80,Jefferson
+00/036,80,Jefferson
+00/037,80,Jefferson
+00/040,80,Jefferson
+00/070,80,Jefferson
+00/071,80,Jefferson
+00/073,80,Jefferson
+00/074,80,Jefferson
+00/075,80,Jefferson
+00/076,80,Jefferson
+00/077,80,Jefferson
+00/078,80,Jefferson
+00/079,80,Jefferson
+00/081,80,Jefferson
+00/082,80,Jefferson
+00/083,80,Jefferson
+00/084,80,Jefferson
+00/085,80,Jefferson
+00/086,80,Jefferson
+00/087,80,Jefferson
+00/14,81,Ascension
+00/15,81,Ascension
+00/27,81,Ascension
+00/34,81,Ascension
+00/35,81,Ascension
+00/40,81,Ascension
+00/65,81,Ascension
+00/66,81,Ascension
+00/69,81,Ascension
+00/07B,81,Livingston
+00/07D,81,Livingston
+00/14,81,Livingston
+00/15,81,Livingston
+00/16,81,Livingston
+00/17,81,Livingston
+00/18,81,Livingston
+00/18A,81,Livingston
+00/21,81,Livingston
+00/21A,81,Livingston
+00/21B,81,Livingston
+00/22,81,Livingston
+00/31,81,Livingston
+00/32,81,Livingston
+00/33,81,Livingston
+00/34,81,Livingston
+00/43,81,Livingston
+00/06,81,St. James
+00/08,81,St. James
+00/09,81,St. James
+00/11,81,St. James
+00/23,81,St. James
+00/038,82,Jefferson
+00/043,82,Jefferson
+00/060,82,Jefferson
+00/063,82,Jefferson
+00/064,82,Jefferson
+00/065,82,Jefferson
+00/066,82,Jefferson
+00/068,82,Jefferson
+00/069,82,Jefferson
+00/072,82,Jefferson
+00/080,82,Jefferson
+00/088,82,Jefferson
+00/089,82,Jefferson
+00/090,82,Jefferson
+00/091,82,Jefferson
+00/092,82,Jefferson
+00/093,82,Jefferson
+00/094,82,Jefferson
+00/095,82,Jefferson
+00/096,82,Jefferson
+00/097,82,Jefferson
+00/098,82,Jefferson
+00/099,82,Jefferson
+00/100,82,Jefferson
+00/101,82,Jefferson
+00/102,82,Jefferson
+00/103,82,Jefferson
+00/105,82,Jefferson
+00/106,82,Jefferson
+00/125A,82,Jefferson
+00/125B,82,Jefferson
+00/126,82,Jefferson
+00/127,82,Jefferson
+00/128,82,Jefferson
+00/129,82,Jefferson
+00/130,82,Jefferson
+00/131,82,Jefferson
+00/132,82,Jefferson
+00/133,82,Jefferson
+00/134,82,Jefferson
+00/136,82,Jefferson
+00/138,82,Jefferson
+00/150A,83,Jefferson
+00/150B,83,Jefferson
+00/151,83,Jefferson
+00/152,83,Jefferson
+00/153,83,Jefferson
+00/154,83,Jefferson
+00/155,83,Jefferson
+00/156,83,Jefferson
+00/157A,83,Jefferson
+00/170,83,Jefferson
+00/179B,83,Jefferson
+00/180,83,Jefferson
+00/187,83,Jefferson
+00/188,83,Jefferson
+00/191,83,Jefferson
+00/200,83,Jefferson
+00/201,83,Jefferson
+00/W001,83,Jefferson
+00/W002,83,Jefferson
+00/W003,83,Jefferson
+00/W004,83,Jefferson
+00/W005,83,Jefferson
+00/W006,83,Jefferson
+00/W007,83,Jefferson
+00/174,84,Jefferson
+00/175,84,Jefferson
+00/176,84,Jefferson
+00/177,84,Jefferson
+00/178,84,Jefferson
+00/182,84,Jefferson
+00/183,84,Jefferson
+00/184,84,Jefferson
+00/185A,84,Jefferson
+00/185B,84,Jefferson
+00/189,84,Jefferson
+00/190,84,Jefferson
+00/192,84,Jefferson
+00/193A,84,Jefferson
+00/193B,84,Jefferson
+00/194A,84,Jefferson
+00/194B,84,Jefferson
+00/198,84,Jefferson
+00/199,84,Jefferson
+00/202,84,Jefferson
+00/203,84,Jefferson
+00/204,84,Jefferson
+00/246,84,Jefferson
+00/247,84,Jefferson
+00/248,84,Jefferson
+00/L001,84,Jefferson
+00/225,85,Jefferson
+00/226,85,Jefferson
+00/227,85,Jefferson
+00/228,85,Jefferson
+00/229,85,Jefferson
+00/230,85,Jefferson
+00/231,85,Jefferson
+00/232A,85,Jefferson
+00/234,85,Jefferson
+00/235,85,Jefferson
+00/G001,85,Jefferson
+00/G002,85,Jefferson
+00/G003,85,Jefferson
+00/G004,85,Jefferson
+00/G005,85,Jefferson
+00/G006,85,Jefferson
+00/G007,85,Jefferson
+00/G008,85,Jefferson
+00/G009,85,Jefferson
+00/G010,85,Jefferson
+00/G011,85,Jefferson
+00/G012,85,Jefferson
+00/G013,85,Jefferson
+00/028,86,Tangipahoa
+00/033,86,Tangipahoa
+00/040A,86,Tangipahoa
+00/041,86,Tangipahoa
+00/042,86,Tangipahoa
+00/044,86,Tangipahoa
+00/045B,86,Tangipahoa
+00/072A,86,Tangipahoa
+00/106A,86,Tangipahoa
+00/108,86,Tangipahoa
+00/110,86,Tangipahoa
+00/112,86,Tangipahoa
+00/114,86,Tangipahoa
+00/117,86,Tangipahoa
+00/118,86,Tangipahoa
+00/118A,86,Tangipahoa
+00/120A,86,Tangipahoa
+00/121,86,Tangipahoa
+00/121A,86,Tangipahoa
+00/127,86,Tangipahoa
+00/139,86,Tangipahoa
+00/141,86,Tangipahoa
+00/141A,86,Tangipahoa
+00/171,87,Jefferson
+00/172,87,Jefferson
+00/173,87,Jefferson
+00/179A,87,Jefferson
+00/181,87,Jefferson
+00/195,87,Jefferson
+00/196,87,Jefferson
+00/197A,87,Jefferson
+00/197B,87,Jefferson
+00/205,87,Jefferson
+00/210,87,Jefferson
+00/211,87,Jefferson
+00/212,87,Jefferson
+00/213A,87,Jefferson
+00/213B,87,Jefferson
+00/213C,87,Jefferson
+00/214A,87,Jefferson
+00/214B,87,Jefferson
+00/215,87,Jefferson
+00/216A,87,Jefferson
+00/217,87,Jefferson
+00/03,88,Ascension
+00/04,88,Ascension
+00/05,88,Ascension
+00/10,88,Ascension
+00/12,88,Ascension
+00/13,88,Ascension
+00/18,88,Ascension
+00/21,88,Ascension
+00/22,88,Ascension
+00/24,88,Ascension
+00/25,88,Ascension
+00/26 A,88,Ascension
+00/26 B,88,Ascension
+00/31,88,Ascension
+00/32,88,Ascension
+00/33,88,Ascension
+00/41,88,Ascension
+00/43,88,Ascension
+00/58,88,Ascension
+00/68,88,Ascension
+00/76,88,Ascension
+00/102,89,St. Tammany
+00/103,89,St. Tammany
+00/306,89,St. Tammany
+00/401,89,St. Tammany
+00/402,89,St. Tammany
+00/403,89,St. Tammany
+00/404,89,St. Tammany
+00/405,89,St. Tammany
+00/407,89,St. Tammany
+00/410,89,St. Tammany
+00/413,89,St. Tammany
+00/414,89,St. Tammany
+00/415,89,St. Tammany
+00/416,89,St. Tammany
+00/417,89,St. Tammany
+00/418,89,St. Tammany
+00/419,89,St. Tammany
+00/421,89,St. Tammany
+00/426,89,St. Tammany
+00/427,89,St. Tammany
+00/429,89,St. Tammany
+00/M01,89,St. Tammany
+00/M02,89,St. Tammany
+00/M04,89,St. Tammany
+00/M06,89,St. Tammany
+00/M07,89,St. Tammany
+00/M08,89,St. Tammany
+00/M11,89,St. Tammany
+00/M12,89,St. Tammany
+00/MD1,89,St. Tammany
+00/802,90,St. Tammany
+00/802A,90,St. Tammany
+00/803,90,St. Tammany
+00/815,90,St. Tammany
+00/815A,90,St. Tammany
+00/902,90,St. Tammany
+00/903,90,St. Tammany
+00/903A,90,St. Tammany
+00/904,90,St. Tammany
+00/906,90,St. Tammany
+00/907,90,St. Tammany
+00/910,90,St. Tammany
+00/911,90,St. Tammany
+00/914,90,St. Tammany
+00/916,90,St. Tammany
+00/921,90,St. Tammany
+00/S01,90,St. Tammany
+00/S02,90,St. Tammany
+00/S03,90,St. Tammany
+00/S04,90,St. Tammany
+00/S05,90,St. Tammany
+00/S06,90,St. Tammany
+00/S07,90,St. Tammany
+00/S08,90,St. Tammany
+00/S09,90,St. Tammany
+00/S13,90,St. Tammany
+00/S15,90,St. Tammany
+00/S18,90,St. Tammany
+00/S19,90,St. Tammany
+00/S22,90,St. Tammany
+01/01,91,Orleans
+01/02,91,Orleans
+02/06,91,Orleans
+10/03,91,Orleans
+10/06,91,Orleans
+10/07,91,Orleans
+10/08,91,Orleans
+10/09,91,Orleans
+10/11,91,Orleans
+10/12,91,Orleans
+10/13,91,Orleans
+10/14,91,Orleans
+11/02,91,Orleans
+11/03,91,Orleans
+11/04,91,Orleans
+11/05,91,Orleans
+11/08,91,Orleans
+11/09,91,Orleans
+11/10,91,Orleans
+11/11,91,Orleans
+11/12,91,Orleans
+11/13,91,Orleans
+11/14,91,Orleans
+11/17,91,Orleans
+12/01,91,Orleans
+12/02,91,Orleans
+12/03,91,Orleans
+12/04,91,Orleans
+12/05,91,Orleans
+12/06,91,Orleans
+12/07,91,Orleans
+12/09,91,Orleans
+12/10,91,Orleans
+12/11,91,Orleans
+12/12,91,Orleans
+12/13,91,Orleans
+12/14,91,Orleans
+12/16,91,Orleans
+12/17,91,Orleans
+12/19,91,Orleans
+14/20,91,Orleans
+14/21,91,Orleans
+14/23,91,Orleans
+14/24A,91,Orleans
+14/25,91,Orleans
+14/26,91,Orleans
+00/007,92,Jefferson
+00/008,92,Jefferson
+00/010,92,Jefferson
+00/055,92,Jefferson
+00/104,92,Jefferson
+00/108,92,Jefferson
+00/115,92,Jefferson
+00/116,92,Jefferson
+00/K011,92,Jefferson
+00/K013A,92,Jefferson
+00/K013B,92,Jefferson
+00/K014,92,Jefferson
+00/K015,92,Jefferson
+00/K016,92,Jefferson
+00/K017,92,Jefferson
+00/K018,92,Jefferson
+00/K019,92,Jefferson
+00/K020,92,Jefferson
+00/K021,92,Jefferson
+00/K022,92,Jefferson
+00/K023,92,Jefferson
+00/K024,92,Jefferson
+00/K025,92,Jefferson
+00/K026,92,Jefferson
+00/K027,92,Jefferson
+00/K028,92,Jefferson
+00/K029,92,Jefferson
+00/K030,92,Jefferson
+00/K031,92,Jefferson
+00/K033,92,Jefferson
+01/05,93,Orleans
+01/06,93,Orleans
+02/01,93,Orleans
+02/02,93,Orleans
+02/04,93,Orleans
+03/01,93,Orleans
+04/02,93,Orleans
+05/01,93,Orleans
+05/02,93,Orleans
+05/03,93,Orleans
+05/05,93,Orleans
+05/07,93,Orleans
+06/01,93,Orleans
+06/02,93,Orleans
+06/04,93,Orleans
+06/06,93,Orleans
+07/02,93,Orleans
+07/04,93,Orleans
+07/05,93,Orleans
+07/06,93,Orleans
+07/07,93,Orleans
+07/08,93,Orleans
+07/09A,93,Orleans
+07/10,93,Orleans
+07/11,93,Orleans
+07/13,93,Orleans
+07/14,93,Orleans
+07/20,93,Orleans
+08/04,93,Orleans
+08/06,93,Orleans
+08/07,93,Orleans
+08/08,93,Orleans
+08/09,93,Orleans
+08/12,93,Orleans
+09/10,93,Orleans
+09/17,93,Orleans
+09/19,93,Orleans
+09/21,93,Orleans
+09/23,93,Orleans
+09/25,93,Orleans
+09/26,93,Orleans
+00/025,94,Jefferson
+00/026,94,Jefferson
+00/027,94,Jefferson
+00/028,94,Jefferson
+00/030,94,Jefferson
+00/034,94,Jefferson
+00/039,94,Jefferson
+00/041,94,Jefferson
+00/042,94,Jefferson
+00/044,94,Jefferson
+00/045,94,Jefferson
+00/046,94,Jefferson
+04/09,94,Orleans
+04/11,94,Orleans
+04/14,94,Orleans
+04/15,94,Orleans
+04/17,94,Orleans
+04/17A,94,Orleans
+04/18,94,Orleans
+04/20,94,Orleans
+04/21,94,Orleans
+04/22,94,Orleans
+04/23,94,Orleans
+05/16,94,Orleans
+05/17,94,Orleans
+05/18,94,Orleans
+07/41,94,Orleans
+07/42,94,Orleans
+17/17,94,Orleans
+17/18,94,Orleans
+17/18A,94,Orleans
+17/19,94,Orleans
+17/20,94,Orleans
+00/05A,95,Livingston
+00/06,95,Livingston
+00/06A,95,Livingston
+00/06B,95,Livingston
+00/07,95,Livingston
+00/07C,95,Livingston
+00/08A,95,Livingston
+00/08B,95,Livingston
+00/09,95,Livingston
+00/10,95,Livingston
+00/11,95,Livingston
+00/11A,95,Livingston
+00/12,95,Livingston
+00/13A,95,Livingston
+00/13B,95,Livingston
+00/19,95,Livingston
+00/19A,95,Livingston
+00/20,95,Livingston
+00/29,95,Livingston
+00/30,95,Livingston
+00/36A,95,Livingston
+00/38,95,Livingston
+00/045A,95,Tangipahoa
+00/125,95,Tangipahoa
+00/133,95,Tangipahoa
+00/133A,95,Tangipahoa
+01/01,96,Iberia
+01/07,96,Iberia
+01/08,96,Iberia
+02/01,96,Iberia
+04/01,96,Iberia
+04/02,96,Iberia
+04/03,96,Iberia
+05/03,96,Iberia
+06/01,96,Iberia
+06/04,96,Iberia
+09/01,96,Iberia
+10/01,96,Iberia
+10/02,96,Iberia
+11/01,96,Iberia
+11/04,96,Iberia
+11/06,96,Iberia
+12/01,96,Iberia
+12/02,96,Iberia
+12/03,96,Iberia
+00/054,96,Lafayette
+00/056,96,Lafayette
+00/059,96,Lafayette
+00/06,96,St. Martin
+00/07,96,St. Martin
+00/08,96,St. Martin
+00/09,96,St. Martin
+00/10,96,St. Martin
+00/11,96,St. Martin
+00/12,96,St. Martin
+00/13,96,St. Martin
+00/14,96,St. Martin
+00/15,96,St. Martin
+00/18,96,St. Martin
+00/19,96,St. Martin
+00/24,96,St. Martin
+00/25,96,St. Martin
+07/17,97,Orleans
+07/18,97,Orleans
+07/19,97,Orleans
+07/23,97,Orleans
+07/24,97,Orleans
+07/25,97,Orleans
+07/25A,97,Orleans
+07/26,97,Orleans
+07/27,97,Orleans
+07/28,97,Orleans
+07/28A,97,Orleans
+07/29,97,Orleans
+07/30,97,Orleans
+07/32,97,Orleans
+07/33,97,Orleans
+07/35,97,Orleans
+07/37,97,Orleans
+07/37A,97,Orleans
+07/40,97,Orleans
+08/13,97,Orleans
+08/14,97,Orleans
+08/15,97,Orleans
+08/19,97,Orleans
+08/20,97,Orleans
+08/21,97,Orleans
+08/22,97,Orleans
+08/23,97,Orleans
+08/24,97,Orleans
+08/25,97,Orleans
+08/26,97,Orleans
+08/27,97,Orleans
+08/28,97,Orleans
+08/30,97,Orleans
+09/29,97,Orleans
+09/30,97,Orleans
+09/30A,97,Orleans
+09/31,97,Orleans
+09/31A,97,Orleans
+09/31B,97,Orleans
+09/31D,97,Orleans
+09/33,97,Orleans
+13/01,98,Orleans
+13/02,98,Orleans
+13/03,98,Orleans
+13/04,98,Orleans
+13/05,98,Orleans
+13/06,98,Orleans
+13/07,98,Orleans
+13/08,98,Orleans
+13/09,98,Orleans
+13/10,98,Orleans
+13/11,98,Orleans
+13/12,98,Orleans
+13/13,98,Orleans
+13/14,98,Orleans
+13/15,98,Orleans
+13/16,98,Orleans
+14/01,98,Orleans
+14/02,98,Orleans
+14/03,98,Orleans
+14/04,98,Orleans
+14/05,98,Orleans
+14/06,98,Orleans
+14/07,98,Orleans
+14/08,98,Orleans
+14/09,98,Orleans
+14/10,98,Orleans
+14/11,98,Orleans
+14/12,98,Orleans
+14/13A,98,Orleans
+14/14,98,Orleans
+14/15,98,Orleans
+14/16,98,Orleans
+14/17,98,Orleans
+14/18A,98,Orleans
+14/19,98,Orleans
+16/01,98,Orleans
+16/01A,98,Orleans
+16/02,98,Orleans
+16/03,98,Orleans
+16/04,98,Orleans
+16/05,98,Orleans
+16/06,98,Orleans
+16/07,98,Orleans
+17/01,98,Orleans
+17/02,98,Orleans
+17/03,98,Orleans
+17/04,98,Orleans
+17/05,98,Orleans
+17/06,98,Orleans
+17/07,98,Orleans
+07/01,99,Orleans
+08/01,99,Orleans
+08/02,99,Orleans
+09/01,99,Orleans
+09/03,99,Orleans
+09/04,99,Orleans
+09/05,99,Orleans
+09/06,99,Orleans
+09/07,99,Orleans
+09/08,99,Orleans
+09/09,99,Orleans
+09/11,99,Orleans
+09/12,99,Orleans
+09/13,99,Orleans
+09/14,99,Orleans
+09/15,99,Orleans
+09/16,99,Orleans
+09/28,99,Orleans
+09/28C,99,Orleans
+09/32,99,Orleans
+09/34A,99,Orleans
+09/35,99,Orleans
+09/35A,99,Orleans
+09/36,99,Orleans
+09/36B,99,Orleans
+09/37,99,Orleans
+09/38,99,Orleans
+09/38A,99,Orleans
+09/42,99,Orleans
+09/42C,99,Orleans
+09/43A,99,Orleans
+09/43B,99,Orleans
+09/43C,99,Orleans
+09/43E,99,Orleans
+09/43F,99,Orleans
+09/43H,99,Orleans
+09/43I,99,Orleans
+09/43M,99,Orleans
+09/43N,99,Orleans
+09/39,100,Orleans
+09/39B,100,Orleans
+09/40,100,Orleans
+09/40A,100,Orleans
+09/40C,100,Orleans
+09/41,100,Orleans
+09/41A,100,Orleans
+09/41B,100,Orleans
+09/41C,100,Orleans
+09/41D,100,Orleans
+09/43G,100,Orleans
+09/43J,100,Orleans
+09/43K,100,Orleans
+09/43L,100,Orleans
+09/44,100,Orleans
+09/44A,100,Orleans
+09/44B,100,Orleans
+09/44D,100,Orleans
+09/44E,100,Orleans
+09/44F,100,Orleans
+09/44G,100,Orleans
+09/44I,100,Orleans
+09/44J,100,Orleans
+09/44L,100,Orleans
+09/44M,100,Orleans
+09/44N,100,Orleans
+09/44O,100,Orleans
+09/44P,100,Orleans
+09/44Q,100,Orleans
+09/45,100,Orleans
+09/45A,100,Orleans
+01/009,101,East Baton Rouge
+01/020 A,101,East Baton Rouge
+01/020 B,101,East Baton Rouge
+01/055 A,101,East Baton Rouge
+01/055 B,101,East Baton Rouge
+01/060 A,101,East Baton Rouge
+01/060 B,101,East Baton Rouge
+01/070 A,101,East Baton Rouge
+01/070 B,101,East Baton Rouge
+01/071 A,101,East Baton Rouge
+01/071 B,101,East Baton Rouge
+01/081 A,101,East Baton Rouge
+01/081 B,101,East Baton Rouge
+01/082 A,101,East Baton Rouge
+01/082 B,101,East Baton Rouge
+01/083 A,101,East Baton Rouge
+01/083 B,101,East Baton Rouge
+01/087 A,101,East Baton Rouge
+01/087 B,101,East Baton Rouge
+01/088,101,East Baton Rouge
+01/090 A,101,East Baton Rouge
+01/090 B,101,East Baton Rouge
+02/001 A,101,East Baton Rouge
+02/001 B,101,East Baton Rouge
+03/008,101,East Baton Rouge
+03/024 A,101,East Baton Rouge
+03/024 B,101,East Baton Rouge
+03/028 A,101,East Baton Rouge
+03/028 B,101,East Baton Rouge
+03/042,101,East Baton Rouge
+15/01,102,Orleans
+15/02,102,Orleans
+15/03,102,Orleans
+15/05,102,Orleans
+15/06,102,Orleans
+15/08,102,Orleans
+15/09,102,Orleans
+15/10,102,Orleans
+15/11,102,Orleans
+15/12,102,Orleans
+15/12A,102,Orleans
+15/13,102,Orleans
+15/13A,102,Orleans
+15/13B,102,Orleans
+15/14,102,Orleans
+15/14A,102,Orleans
+15/14B,102,Orleans
+15/14C,102,Orleans
+15/14D,102,Orleans
+15/14E,102,Orleans
+15/14F,102,Orleans
+15/14G,102,Orleans
+15/15,102,Orleans
+15/15A,102,Orleans
+15/15B,102,Orleans
+15/16,102,Orleans
+15/17,102,Orleans
+15/17A,102,Orleans
+15/17B,102,Orleans
+15/18,102,Orleans
+15/18A,102,Orleans
+15/18B,102,Orleans
+15/18C,102,Orleans
+15/18F,102,Orleans
+15/19,102,Orleans
+15/19A,102,Orleans
+15/19B,102,Orleans
+15/19C,102,Orleans
+*ALL/*ALL,103,St. Bernard
+00/307,104,St. Tammany
+00/309,104,St. Tammany
+00/312,104,St. Tammany
+00/312A,104,St. Tammany
+00/313,104,St. Tammany
+00/406,104,St. Tammany
+00/408,104,St. Tammany
+00/409,104,St. Tammany
+00/411,104,St. Tammany
+00/412,104,St. Tammany
+00/420,104,St. Tammany
+00/422,104,St. Tammany
+00/430,104,St. Tammany
+00/605,104,St. Tammany
+00/701,104,St. Tammany
+00/702,104,St. Tammany
+00/703,104,St. Tammany
+00/704,104,St. Tammany
+00/705,104,St. Tammany
+00/706,104,St. Tammany
+00/901,104,St. Tammany
+00/905,104,St. Tammany
+00/913,104,St. Tammany
+00/915,104,St. Tammany
+00/917,104,St. Tammany
+00/M09,104,St. Tammany
+00/M09A,104,St. Tammany
+00/M10,104,St. Tammany
+00/216B,105,Jefferson
+00/232B,105,Jefferson
+00/236,105,Jefferson
+00/237,105,Jefferson
+00/238A,105,Jefferson
+00/238B,105,Jefferson
+15/18D,105,Orleans
+15/18E,105,Orleans
+*ALL/*ALL,105,Plaquemines
