@@ -78,7 +78,7 @@ get_dataframe <- function(precinct, amendment_data) {
   return(cbind(table, votes) %>%
            mutate(parish))
 }
-
+ 
 # --------------------------- Loading Data ------------------------------
 
 # Creating links to pull from
