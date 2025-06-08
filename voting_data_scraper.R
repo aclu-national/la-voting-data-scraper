@@ -44,9 +44,9 @@ get_precinct_data <- function(url) {
 }
 
 # Defining the get_dataframe function
-get_dataframe <- function(precinct, act_data) {
+get_dataframe <- function(precinct, amendment_data) {
   parish <- parishes[[precinct]] # Getting the parish 
-  data <- act_data[[precinct]] # Gathering the data
+  data <- amendment_data[[precinct]] # Gathering the data
   
   # Creating a dataframe for important variables
   table <- data$Precincts$Precinct %>%
@@ -63,7 +63,7 @@ get_dataframe <- function(precinct, act_data) {
     mutate(vote = case_when(
       ID == "3" ~ "yes",
       ID == "4" ~ "no",
-      TRUE ~ NA_character_
+      TRUE ~ NA_charamendmenter_
     )) %>%
     mutate(VoteTotal = as.numeric(VoteTotal),
            precinct = as.numeric(precinct)) %>%
@@ -85,38 +85,38 @@ get_dataframe <- function(precinct, act_data) {
 n <- sprintf("%02d", 01:64)
 end_link <- ".htm"
 
-act_1_base_link <- "https://voterportal.sos.la.gov/ElectionResults/ElectionResults/Data?blob=20250329/VotesRaceByPrecinct/Votes_13280_"
-act_2_base_link <- "https://voterportal.sos.la.gov/ElectionResults/ElectionResults/Data?blob=20250329/VotesRaceByPrecinct/Votes_13281_"
-act_3_base_link <- "https://voterportal.sos.la.gov/ElectionResults/ElectionResults/Data?blob=20250329/VotesRaceByPrecinct/Votes_13282_"
-act_4_base_link <- "https://voterportal.sos.la.gov/ElectionResults/ElectionResults/Data?blob=20250329/VotesRaceByPrecinct/Votes_13283_"
+amendment_1_base_link <- "https://voterportal.sos.la.gov/ElectionResults/ElectionResults/Data?blob=20250329/VotesRaceByPrecinct/Votes_13280_"
+amendment_2_base_link <- "https://voterportal.sos.la.gov/ElectionResults/ElectionResults/Data?blob=20250329/VotesRaceByPrecinct/Votes_13281_"
+amendment_3_base_link <- "https://voterportal.sos.la.gov/ElectionResults/ElectionResults/Data?blob=20250329/VotesRaceByPrecinct/Votes_13282_"
+amendment_4_base_link <- "https://voterportal.sos.la.gov/ElectionResults/ElectionResults/Data?blob=20250329/VotesRaceByPrecinct/Votes_13283_"
 
-act_1_links <- paste0(act_1_base_link,n,end_link)
-act_2_links <- paste0(act_2_base_link,n,end_link)
-act_3_links <- paste0(act_3_base_link,n,end_link)
-act_4_links <- paste0(act_4_base_link,n,end_link)
+amendment_1_links <- paste0(amendment_1_base_link,n,end_link)
+amendment_2_links <- paste0(amendment_2_base_link,n,end_link)
+amendment_3_links <- paste0(amendment_3_base_link,n,end_link)
+amendment_4_links <- paste0(amendment_4_base_link,n,end_link)
 
 # Pulling datafrom links
-act_1_precinct_data <- lapply(act_1_links, get_precinct_data)
-act_2_precinct_data <- lapply(act_2_links, get_precinct_data)
-act_3_precinct_data <- lapply(act_3_links, get_precinct_data)
-act_4_precinct_data <- lapply(act_4_links, get_precinct_data)
+amendment_1_precinct_data <- lapply(amendment_1_links, get_precinct_data)
+amendment_2_precinct_data <- lapply(amendment_2_links, get_precinct_data)
+amendment_3_precinct_data <- lapply(amendment_3_links, get_precinct_data)
+amendment_4_precinct_data <- lapply(amendment_4_links, get_precinct_data)
 
 # Creating a "raw_voting_data" directory
 dir.create("raw_voting_data")
 
 # Downloading JSON's
-write_json(act_1_precinct_data, "raw_voting_data/act_1_precinct_data.json")
-write_json(act_2_precinct_data, "raw_voting_data/act_2_precinct_data.json")
-write_json(act_3_precinct_data, "raw_voting_data/act_3_precinct_data.json")
-write_json(act_4_precinct_data, "raw_voting_data/act_4_precinct_data.json")
+write_json(amendment_1_precinct_data, "raw_voting_data/amendment_1_precinct_data.json")
+write_json(amendment_2_precinct_data, "raw_voting_data/amendment_2_precinct_data.json")
+write_json(amendment_3_precinct_data, "raw_voting_data/amendment_3_precinct_data.json")
+write_json(amendment_4_precinct_data, "raw_voting_data/amendment_4_precinct_data.json")
 
 # --------------------- Cleaning Data into Dataframes ---------------------
 
 # Turning the data into lists of dataframes
-act_1_df_list <- lapply(1:64, function(i) get_dataframe(i, act_1_precinct_data))
-act_2_df_list <- lapply(1:64, function(i) get_dataframe(i, act_2_precinct_data))
-act_3_df_list <- lapply(1:64, function(i) get_dataframe(i, act_3_precinct_data))
-act_4_df_list <- lapply(1:64, function(i) get_dataframe(i, act_4_precinct_data))
+amendment_1_df_list <- lapply(1:64, function(i) get_dataframe(i, amendment_1_precinct_data))
+amendment_2_df_list <- lapply(1:64, function(i) get_dataframe(i, amendment_2_precinct_data))
+amendment_3_df_list <- lapply(1:64, function(i) get_dataframe(i, amendment_3_precinct_data))
+amendment_4_df_list <- lapply(1:64, function(i) get_dataframe(i, amendment_4_precinct_data))
 
 # ------------------------ Downloading Data -------------------------
 
@@ -124,7 +124,7 @@ act_4_df_list <- lapply(1:64, function(i) get_dataframe(i, act_4_precinct_data))
 dir.create("voting_data")
 
 # Downloading vote data
-write_csv(act_1_df, "voting_data/act_1_votes.csv")
-write_csv(act_2_df, "voting_data/act_2_votes.csv")
-write_csv(act_3_df, "voting_data/act_3_votes.csv")
-write_csv(act_4_df, "voting_data/act_4_votes.csv")
+write_csv(amendment_1_df, "voting_data/amendment_1_votes.csv")
+write_csv(amendment_2_df, "voting_data/amendment_2_votes.csv")
+write_csv(amendment_3_df, "voting_data/amendment_3_votes.csv")
+write_csv(amendment_4_df, "voting_data/amendment_4_votes.csv")
